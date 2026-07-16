@@ -1,45 +1,19 @@
 # Montpellier ECU (MTP)
 
-![Logo](/b1723818-9d81-488c-9396-104adefbe9ca.png)
+![Montpellier ECU Logo](assets/MTP_logo.png)
 
-## Official Information
+## Born in Occitanie. Valid worldwide.
 
-**Name:** Montpellier ECU
+Montpellier ECU (MTP) is an open-source cryptocurrency project deployed on the Base network.
 
-**Symbol:** MTP
+The project combines regional identity with blockchain technology through transparency, public verification and open documentation.
+
+---
+
+# Blockchain Information
 
 **Network:** Base
 
-**Contract Address:**
+**Token Symbol:** MTP
 
-0x50626097a780881d3dFf1Ff97579e6dAF965366B
-
----
-
-## About
-
-Montpellier ECU (MTP) is an open-source cryptocurrency built on the Base blockchain.
-
-The project aims to provide a transparent, community-driven digital currency originating from Montpellier and designed for worldwide use.
-
----
-
-## Smart Contract
-
-The official smart contract is deployed on Base.
-
----
-
-## Roadmap
-
-- Official Website
-- Whitepaper
-- Community
-- Reserve Transparency
-- Merchant Adoption
-
----
-
-## License
-
-Open Source
+**Smart Contract:**
