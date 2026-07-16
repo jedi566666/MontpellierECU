@@ -1,6 +1,6 @@
 # Montpellier ECU (MTP)
 
-![Logo](logo/logo.png)
+![Logo](logo/b1723818-9d81-488c-9396-104adefbe9ca.png.png)
 
 ## Official Information
 
