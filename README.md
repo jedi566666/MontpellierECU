@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mtp-github-hero.png" alt="Montpellier ECU — MTP Ecosystem" width="100%">
+  <img src="mtp-github-hero.png" alt="Montpellier ECU — MTP Ecosystem" width="100%">
 </p>
 
 <p align="center">
@@ -37,13 +37,13 @@ MTP is not presented as a guaranteed investment, a savings product or a promise 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://mtp-coin.netlify.app/"><img src="assets/screenshots/official-website.png" alt="MTP Official Website"></a>
+<a href="https://mtp-coin.netlify.app/"><img src="mtp-official-website.png" alt="MTP Official Website"></a>
 <h3>Official Website</h3>
 <p>The public entry point for the MTP identity, ecosystem and official resources.</p>
 <p><a href="https://mtp-coin.netlify.app/"><strong>Open website →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://mtplive.netlify.app/"><img src="assets/screenshots/mtp-live.png" alt="MTP Live"></a>
+<a href="https://mtplive.netlify.app/"><img src="mtp-live.png" alt="MTP Live"></a>
 <h3>MTP Live</h3>
 <p>A dedicated terminal for market, blockchain, pools and ecosystem monitoring.</p>
 <p><a href="https://mtplive.netlify.app/"><strong>Open MTP Live →</strong></a></p>
@@ -51,21 +51,21 @@ MTP is not presented as a guaranteed investment, a savings product or a promise 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://mtpwallet.netlify.app/"><img src="assets/screenshots/mtp-wallet.png" alt="MTP Wallet"></a>
+<a href="https://mtpwallet.netlify.app/"><img src="mtp-wallet.png" alt="MTP Wallet"></a>
 <h3>MTP Wallet</h3>
 <p>A streamlined interface designed around MTP access and everyday use.</p>
 <p><a href="https://mtpwallet.netlify.app/"><strong>Open wallet →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<img src="assets/screenshots/monia-desktop.png" alt="MONIA Desktop">
+<img src="monia-desktop.png" alt="MONIA Desktop">
 <h3>MONIA Desktop</h3>
 <p>The official Windows desktop application bringing the MTP ecosystem into one interface.</p>
-<p><a href="../../releases"><strong>View releases →</strong></a></p>
+<p><a href="https://github.com/jedi566666/MontpellierECU/releases"><strong>View releases →</strong></a></p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<a href="https://mtp-coin.netlify.app/marketplace/"><img src="assets/screenshots/marketplace.png" alt="MTP Marketplace"></a>
+<a href="https://mtp-coin.netlify.app/marketplace/"><img src="mtp-marketplace.png" alt="MTP Marketplace"></a>
 <h3>MTP Marketplace</h3>
 <p>A marketplace for objects and services whose displayed and settled unit is Montpellier ECU.</p>
 <p><a href="https://mtp-coin.netlify.app/marketplace/"><strong>Open marketplace →</strong></a></p>
@@ -141,7 +141,7 @@ flowchart TD
 ---
 
 <p align="center">
-  <img src="assets/mtp-logo-official.png" width="110" alt="MTP logo">
+  <img src="mtp-logo-official.png" width="110" alt="MTP logo">
 </p>
 
 <h3 align="center">Born in Occitania. Usable worldwide.</h3>

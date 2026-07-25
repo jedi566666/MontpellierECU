@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mtp-github-hero.png" alt="Montpellier ECU — Écosystème MTP" width="100%">
+  <img src="mtp-github-hero.png" alt="Montpellier ECU — Écosystème MTP" width="100%">
 </p>
 
 <p align="center">
@@ -37,13 +37,13 @@ MTP n’est pas présenté comme un placement garanti, un produit d’épargne o
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://mtp-coin.netlify.app/"><img src="assets/screenshots/official-website.png" alt="Site officiel MTP"></a>
+<a href="https://mtp-coin.netlify.app/"><img src="mtp-official-website.png" alt="Site officiel MTP"></a>
 <h3>Site officiel</h3>
 <p>Le point d’entrée public vers l’identité, l’écosystème et les ressources officielles de MTP.</p>
 <p><a href="https://mtp-coin.netlify.app/"><strong>Ouvrir le site →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://mtplive.netlify.app/"><img src="assets/screenshots/mtp-live.png" alt="MTP Live"></a>
+<a href="https://mtplive.netlify.app/"><img src="mtp-live.png" alt="MTP Live"></a>
 <h3>MTP Live</h3>
 <p>Un terminal dédié au suivi du marché, de la blockchain, des pools et de l’écosystème.</p>
 <p><a href="https://mtplive.netlify.app/"><strong>Ouvrir MTP Live →</strong></a></p>
@@ -51,21 +51,21 @@ MTP n’est pas présenté comme un placement garanti, un produit d’épargne o
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://mtpwallet.netlify.app/"><img src="assets/screenshots/mtp-wallet.png" alt="MTP Wallet"></a>
+<a href="https://mtpwallet.netlify.app/"><img src="mtp-wallet.png" alt="MTP Wallet"></a>
 <h3>MTP Wallet</h3>
 <p>Une interface simplifiée conçue autour de l’accès au MTP et de son utilisation quotidienne.</p>
 <p><a href="https://mtpwallet.netlify.app/"><strong>Ouvrir le Wallet →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<img src="assets/screenshots/monia-desktop.png" alt="MONIA Desktop">
+<img src="monia-desktop.png" alt="MONIA Desktop">
 <h3>MONIA Desktop</h3>
 <p>L’application Windows officielle qui rassemble l’écosystème MTP dans une seule interface.</p>
-<p><a href="../../releases"><strong>Voir les versions →</strong></a></p>
+<p><a href="https://github.com/jedi566666/MontpellierECU/releases"><strong>Voir les versions →</strong></a></p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<a href="https://mtp-coin.netlify.app/marketplace/"><img src="assets/screenshots/marketplace.png" alt="Marketplace MTP"></a>
+<a href="https://mtp-coin.netlify.app/marketplace/"><img src="mtp-marketplace.png" alt="Marketplace MTP"></a>
 <h3>Marketplace MTP</h3>
 <p>Une place de marché dédiée aux objets et services dont l’unité affichée et réglée est Montpellier ECU.</p>
 <p><a href="https://mtp-coin.netlify.app/marketplace/"><strong>Ouvrir la Marketplace →</strong></a></p>
@@ -141,7 +141,7 @@ flowchart TD
 ---
 
 <p align="center">
-  <img src="assets/mtp-logo-official.png" width="110" alt="Logo MTP">
+  <img src="mtp-logo-official.png" width="110" alt="Logo MTP">
 </p>
 
 <h3 align="center">Née en Occitanie. Valable partout dans le monde.</h3>
