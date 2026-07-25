@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mtp-github-hero.png" alt="Montpellier ECU — Écosystème MTP" width="100%">
+  <img src="mtp-github-hero-v4.png" alt="Montpellier ECU — Écosystème MTP" width="100%">
 </p>
 
 <p align="center">
@@ -11,26 +11,30 @@
   <a href="https://mtp-coin.netlify.app/">Site officiel</a> ·
   <a href="https://mtplive.netlify.app/">MTP Live</a> ·
   <a href="https://mtpwallet.netlify.app/">MTP Wallet</a> ·
+  <a href="https://mtp-coin.netlify.app/marketplace/">Marketplace</a> ·
   <a href="https://t.me/MTPOCCITANIE">Telegram</a> ·
   <a href="https://x.com/JEDI566666">X</a>
 </p>
 
 <p align="center">
-  <img alt="Réseau Base" src="https://img.shields.io/badge/r%C3%A9seau-Base-0052FF?style=flat-square">
-  <img alt="Token MTP" src="https://img.shields.io/badge/token-MTP-D8A82E?style=flat-square&labelColor=111111">
-  <img alt="Documentation FR EN" src="https://img.shields.io/badge/documentation-FR%20%2F%20EN-8B1E17?style=flat-square">
-  <img alt="Développement actif" src="https://img.shields.io/badge/d%C3%A9veloppement-actif-159947?style=flat-square">
+  <img alt="Base" src="https://img.shields.io/badge/r%C3%A9seau-Base-0052FF?style=flat-square">
+  <img alt="MTP" src="https://img.shields.io/badge/token-MTP-D8A82E?style=flat-square&labelColor=111111">
+  <img alt="FR EN" src="https://img.shields.io/badge/documentation-FR%20%2F%20EN-8B1E17?style=flat-square">
+  <img alt="Actif" src="https://img.shields.io/badge/d%C3%A9veloppement-actif-159947?style=flat-square">
 </p>
 
 ---
 
-## Plus qu’un token
+## Pourquoi MTP ?
 
-Montpellier ECU est un écosystème numérique construit progressivement autour d’un token public, d’outils de suivi du marché, d’une interface Wallet, d’une Marketplace et d’une application Windows.
+MTP a été créé pour relier un token public à des outils pratiques, visibles et développés progressivement.
+
+- **Identité locale :** né à Montpellier et enraciné en Occitanie.
+- **Utilité concrète :** Marketplace, Wallet, suivi du marché et application Windows.
+- **Développement indépendant :** aucun contrôle par des fonds de capital-risque et aucune promesse de rendement.
+- **Documentation publique :** stratégie, risques, sécurité, liquidité et roadmap sont documentés ouvertement.
 
 > **Redonner une valeur d’usage aux objets, aux services et aux savoir-faire oubliés ou sous-utilisés.**
-
-MTP n’est pas présenté comme un placement garanti, un produit d’épargne ou une promesse d’augmentation du cours.
 
 ## Explorer l’écosystème
 
@@ -59,7 +63,7 @@ MTP n’est pas présenté comme un placement garanti, un produit d’épargne o
 <td width="50%" valign="top">
 <img src="monia-desktop.png" alt="MONIA Desktop">
 <h3>MONIA Desktop</h3>
-<p>L’application Windows officielle qui rassemble l’écosystème MTP dans une seule interface.</p>
+<p>L’application Windows officielle qui rassemble l’écosystème dans une seule interface.</p>
 <p><a href="https://github.com/jedi566666/MontpellierECU/releases"><strong>Voir les versions →</strong></a></p>
 </td>
 </tr>
@@ -73,19 +77,39 @@ MTP n’est pas présenté comme un placement garanti, un produit d’épargne o
 </tr>
 </table>
 
-## Référence canonique du token
+## Chronologie du projet
 
-| Propriété | Valeur |
-|---|---|
-| Nom | Montpellier ECU |
-| Symbole | MTP |
-| Réseau | Base |
-| Standard | ERC-20 |
-| Offre maximale | 21 000 000 MTP |
-| Décimales | 18 |
-| Contrat | [`0x50626097a780881d3dFf1Ff97579e6dAF965366B`](https://basescan.org/token/0x50626097a780881d3dFf1Ff97579e6dAF965366B) |
+```mermaid
+timeline
+    title Montpellier ECU — Étapes publiques du développement
+    Concept initial : Idée d’une monnaie numérique indépendante
+    Lancement du token : Déploiement de MTP sur Base
+    Présence publique : Publication du site officiel
+    Outils de marché : Lancement de MTP Live
+    Couche d’accès : Publication du MTP Wallet
+    Couche d’utilité : Ouverture de la Marketplace
+    Couche bureau : Sortie de MONIA 1.0
+    Prochaine phase : Développement des usages et adoption commerçante
+```
 
-Toujours vérifier le réseau et le contrat avant toute interaction avec le token.
+## Architecture
+
+```mermaid
+flowchart TD
+    MTP["Montpellier ECU · MTP"] --> SITE["Site officiel"]
+    MTP --> LIVE["MTP Live"]
+    MTP --> WALLET["MTP Wallet"]
+    MTP --> MARKET["Marketplace"]
+    MTP --> MONIA["MONIA Desktop"]
+    SITE --> DOCS["Documentation publique"]
+    LIVE --> DATA["Données blockchain et marché"]
+    WALLET --> ACCESS["Accès et utilisation"]
+    MARKET --> ECONOMY["Objets · services · savoir-faire"]
+    MONIA --> SITE
+    MONIA --> LIVE
+    MONIA --> WALLET
+    MONIA --> MARKET
+```
 
 ## État actuel
 
@@ -101,6 +125,30 @@ Toujours vérifier le réseau et le contrat avant toute interaction avec le toke
 | Réseau de commerçants | En développement |
 | Gouvernance avancée et staking | Exploratoires — non lancés |
 
+## Dernières versions publiques
+
+| Version | Rôle | Accès |
+|---|---|---|
+| MONIA 1.0 | Application Windows officielle | [GitHub Releases](https://github.com/jedi566666/MontpellierECU/releases) |
+| Site officiel V10.3 | Point d’entrée public de l’écosystème | [Ouvrir](https://mtp-coin.netlify.app/) |
+| MTP Live V7 | Terminal de suivi | [Ouvrir](https://mtplive.netlify.app/) |
+| MTP Wallet | Interface Wallet | [Ouvrir](https://mtpwallet.netlify.app/) |
+| Marketplace | Objets et services en MTP | [Ouvrir](https://mtp-coin.netlify.app/marketplace/) |
+
+## Référence canonique du token
+
+| Propriété | Valeur |
+|---|---|
+| Nom | Montpellier ECU |
+| Symbole | MTP |
+| Réseau | Base |
+| Standard | ERC-20 |
+| Offre maximale | 21 000 000 MTP |
+| Décimales | 18 |
+| Contrat | [`0x50626097a780881d3dFf1Ff97579e6dAF965366B`](https://basescan.org/token/0x50626097a780881d3dFf1Ff97579e6dAF965366B) |
+
+Toujours vérifier le réseau et le contrat avant toute interaction avec le token.
+
 ## Documentation
 
 | Stratégie | Fonctionnement | Confiance |
@@ -109,25 +157,6 @@ Toujours vérifier le réseau et le contrat avant toute interaction avec le toke
 | [Roadmap](ROADMAP_FR.md) | [Tokenomics](TOKENOMICS_FR.md) | [Avertissement sur les risques](RISK_NOTICE_FR.md) |
 | [Gouvernance](GOVERNANCE_FR.md) | [Liquidité](LIQUIDITY_FR.md) | [FAQ](FAQ_FR.md) |
 | [Documentation anglaise](README.md) | [Contribuer](CONTRIBUTING_FR.md) | [Code de conduite](CODE_OF_CONDUCT.md) |
-
-## Architecture
-
-```mermaid
-flowchart TD
-    MTP["Montpellier ECU · MTP"] --> SITE["Site officiel"]
-    MTP --> LIVE["MTP Live"]
-    MTP --> WALLET["MTP Wallet"]
-    MTP --> MARKET["Marketplace"]
-    MTP --> MONIA["MONIA Desktop"]
-    SITE --> COMMUNITY["Communauté et documentation publique"]
-    LIVE --> DATA["Données publiques du marché et de la blockchain"]
-    WALLET --> USE["Accès et utilisation"]
-    MARKET --> ECONOMY["Objets · services · savoir-faire"]
-    MONIA --> SITE
-    MONIA --> LIVE
-    MONIA --> WALLET
-    MONIA --> MARKET
-```
 
 ## Principes de développement
 
@@ -138,11 +167,6 @@ flowchart TD
 - Publier une documentation vérifiable et améliorable.
 - Considérer les crypto-actifs comme risqués et ne jamais promettre de rendement.
 
----
-
 <p align="center">
-  <img src="mtp-logo-official.png" width="110" alt="Logo MTP">
+  <img src="mtp-footer-v4.png" alt="Née en Occitanie. Valable partout dans le monde." width="100%">
 </p>
-
-<h3 align="center">Née en Occitanie. Valable partout dans le monde.</h3>
-<p align="center"><strong>Toute valeur oubliée peut retrouver sa place.</strong></p>
