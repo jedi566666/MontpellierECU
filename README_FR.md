@@ -1,136 +1,148 @@
-<div align="center">
+<p align="center">
+  <img src="assets/mtp-github-hero.png" alt="Montpellier ECU — Écosystème MTP" width="100%">
+</p>
 
-<img src="assets/mtp-github-banner.svg" alt="Montpellier ECU — MTP" width="100%">
+<p align="center">
+  <strong>Un écosystème numérique indépendant construit autour de Montpellier ECU (MTP) sur Base.</strong>
+</p>
 
-<br>
+<p align="center">
+  <a href="README.md">English</a> ·
+  <a href="https://mtp-coin.netlify.app/">Site officiel</a> ·
+  <a href="https://mtplive.netlify.app/">MTP Live</a> ·
+  <a href="https://mtpwallet.netlify.app/">MTP Wallet</a> ·
+  <a href="https://t.me/MTPOCCITANIE">Telegram</a> ·
+  <a href="https://x.com/JEDI566666">X</a>
+</p>
 
-[![Réseau](https://img.shields.io/badge/Réseau-Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white)](https://basescan.org/token/0x50626097a780881d3dFf1Ff97579e6dAF965366B)
-[![Token](https://img.shields.io/badge/Token-MTP-D4AF37?style=for-the-badge&labelColor=090909)](https://basescan.org/token/0x50626097a780881d3dFf1Ff97579e6dAF965366B)
-[![Documentation](https://img.shields.io/badge/Documentation-FR%20%2F%20EN-111111?style=for-the-badge)](#documentation)
-[![Statut](https://img.shields.io/badge/Développement-Actif-2ea44f?style=for-the-badge)](CHANGELOG.md)
-
-**Le dépôt public officiel de l’écosystème numérique Montpellier ECU.**
-
-[Site officiel](https://mtp-coin.netlify.app/) · [MTP Live](https://mtplive.netlify.app/) · [MTP Wallet](https://mtpwallet.netlify.app/) · [MONIA](https://github.com/jedi566666/MontpellierECU/releases) · [Telegram](https://t.me/MTPOCCITANIE) · [X](https://x.com/JEDI566666)
-
-[**Read in English**](README.md)
-
-</div>
+<p align="center">
+  <img alt="Réseau Base" src="https://img.shields.io/badge/r%C3%A9seau-Base-0052FF?style=flat-square">
+  <img alt="Token MTP" src="https://img.shields.io/badge/token-MTP-D8A82E?style=flat-square&labelColor=111111">
+  <img alt="Documentation FR EN" src="https://img.shields.io/badge/documentation-FR%20%2F%20EN-8B1E17?style=flat-square">
+  <img alt="Développement actif" src="https://img.shields.io/badge/d%C3%A9veloppement-actif-159947?style=flat-square">
+</p>
 
 ---
 
-## Un écosystème numérique — pas seulement un token
+## Plus qu’un token
 
-**Montpellier ECU (MTP)** est un écosystème numérique indépendant construit autour d’un token ERC-20 déployé sur **Base**. Il rassemble un token, des outils publics et des services destinés aux utilisateurs autour d’un objectif :
+Montpellier ECU est un écosystème numérique construit progressivement autour d’un token public, d’outils de suivi du marché, d’une interface Wallet, d’une Marketplace et d’une application Windows.
 
 > **Redonner une valeur d’usage aux objets, aux services et aux savoir-faire oubliés ou sous-utilisés.**
 
-MTP se développe progressivement, publiquement et sans contrôle d’un fonds de capital-risque. Il n’est pas présenté comme un investissement garanti, un produit d’épargne ou une promesse de hausse de son prix de marché.
+MTP n’est pas présenté comme un placement garanti, un produit d’épargne ou une promesse d’augmentation du cours.
+
+## Explorer l’écosystème
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://mtp-coin.netlify.app/"><img src="assets/screenshots/official-website.png" alt="Site officiel MTP"></a>
+<h3>Site officiel</h3>
+<p>Le point d’entrée public vers l’identité, l’écosystème et les ressources officielles de MTP.</p>
+<p><a href="https://mtp-coin.netlify.app/"><strong>Ouvrir le site →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://mtplive.netlify.app/"><img src="assets/screenshots/mtp-live.png" alt="MTP Live"></a>
+<h3>MTP Live</h3>
+<p>Un terminal dédié au suivi du marché, de la blockchain, des pools et de l’écosystème.</p>
+<p><a href="https://mtplive.netlify.app/"><strong>Ouvrir MTP Live →</strong></a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://mtpwallet.netlify.app/"><img src="assets/screenshots/mtp-wallet.png" alt="MTP Wallet"></a>
+<h3>MTP Wallet</h3>
+<p>Une interface simplifiée conçue autour de l’accès au MTP et de son utilisation quotidienne.</p>
+<p><a href="https://mtpwallet.netlify.app/"><strong>Ouvrir le Wallet →</strong></a></p>
+</td>
+<td width="50%" valign="top">
+<img src="assets/screenshots/monia-desktop.png" alt="MONIA Desktop">
+<h3>MONIA Desktop</h3>
+<p>L’application Windows officielle qui rassemble l’écosystème MTP dans une seule interface.</p>
+<p><a href="../../releases"><strong>Voir les versions →</strong></a></p>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<a href="https://mtp-coin.netlify.app/marketplace/"><img src="assets/screenshots/marketplace.png" alt="Marketplace MTP"></a>
+<h3>Marketplace MTP</h3>
+<p>Une place de marché dédiée aux objets et services dont l’unité affichée et réglée est Montpellier ECU.</p>
+<p><a href="https://mtp-coin.netlify.app/marketplace/"><strong>Ouvrir la Marketplace →</strong></a></p>
+</td>
+</tr>
+</table>
 
 ## Référence canonique du token
 
 | Propriété | Valeur |
 |---|---|
-| **Nom** | Montpellier ECU |
-| **Symbole** | MTP |
-| **Réseau** | Base |
-| **Standard** | ERC-20 |
-| **Contrat** | [`0x50626097a780881d3dFf1Ff97579e6dAF965366B`](https://basescan.org/token/0x50626097a780881d3dFf1Ff97579e6dAF965366B) |
-| **Offre maximale** | 21 000 000 MTP |
-| **Décimales** | 18 |
+| Nom | Montpellier ECU |
+| Symbole | MTP |
+| Réseau | Base |
+| Standard | ERC-20 |
+| Offre maximale | 21 000 000 MTP |
+| Décimales | 18 |
+| Contrat | [`0x50626097a780881d3dFf1Ff97579e6dAF965366B`](https://basescan.org/token/0x50626097a780881d3dFf1Ff97579e6dAF965366B) |
 
-> [!IMPORTANT]
-> Vérifiez toujours l’adresse complète du contrat avant toute interaction avec MTP. Les sites, interfaces et plateformes peuvent évoluer ; le contrat Base ci-dessus reste l’identifiant technique canonique.
+Toujours vérifier le réseau et le contrat avant toute interaction avec le token.
 
-## Écosystème
+## État actuel
 
-```mermaid
-flowchart LR
-    MTP((TOKEN<br/>MTP))
-    SITE[Site officiel]
-    LIVE[MTP Live]
-    WALLET[MTP Wallet]
-    MARKET[Marketplace]
-    MONIA[MONIA Desktop]
-    ZERO[Argent 0]
-
-    MTP --> SITE
-    MTP --> LIVE
-    MTP --> WALLET
-    MTP --> MARKET
-    SITE --> MONIA
-    SITE --> ZERO
-```
-
-| Composant | Statut | Rôle |
-|---|---:|---|
-| **Token MTP** | En ligne | Actif numérique central de l’écosystème |
-| **Site officiel** | En ligne | Point d’entrée public principal |
-| **MTP Live** | En ligne | Suivi du marché et du réseau |
-| **MTP Wallet** | En ligne / évolutif | Accès à l’écosystème orienté wallet |
-| **Marketplace** | Première phase opérationnelle | Objets, services et savoir-faire échangés en MTP |
-| **MONIA Desktop** | v1.0 disponible | Accès Windows portable aux services MTP |
-| **Argent 0** | Concept publié | « L’argent est un moyen, pas une fin. » |
-| **Staking** | Non lancé | Aucun mécanisme public de rendement n’est promis |
-| **Gouvernance** | Exploratoire | Envisagée après l’apparition d’un usage significatif |
-
-## Doctrine stratégique
-
-MTP se développe autour de trois principes durables :
-
-1. **Liquidité utile** — améliorer l’accessibilité du marché sans fabriquer ni promettre une hausse du prix.
-2. **Utilité réelle** — rendre le MTP utilisable pour des échanges, des services et des accès numériques concrets.
-3. **Identité forte et honnête** — préserver les racines occitanes et l’indépendance du projet sans affirmation trompeuse.
-
-Le cadre public d’exécution est détaillé dans la [feuille de route MTP](ROADMAP_FR.md).
+| Composant | État |
+|---|---|
+| Contrat ERC-20 sur Base | Disponible |
+| Site officiel | Disponible |
+| MTP Live | Disponible |
+| MTP Wallet | Disponible |
+| Marketplace | Disponible |
+| Application Windows MONIA | Disponible |
+| Documentation publique bilingue | Disponible |
+| Réseau de commerçants | En développement |
+| Gouvernance avancée et staking | Exploratoires — non lancés |
 
 ## Documentation
 
-| Domaine | Français | English |
+| Stratégie | Fonctionnement | Confiance |
 |---|---|---|
-| Vision | [VISION_FR.md](VISION_FR.md) | [VISION.md](VISION.md) |
-| Feuille de route | [ROADMAP_FR.md](ROADMAP_FR.md) | [ROADMAP.md](ROADMAP.md) |
-| Écosystème | [ECOSYSTEM_FR.md](ECOSYSTEM_FR.md) | [ECOSYSTEM.md](ECOSYSTEM.md) |
-| Informations sur le token | [TOKENOMICS_FR.md](TOKENOMICS_FR.md) | [TOKENOMICS.md](TOKENOMICS.md) |
-| Principes de liquidité | [LIQUIDITY_FR.md](LIQUIDITY_FR.md) | [LIQUIDITY.md](LIQUIDITY.md) |
-| Sécurité | [SECURITY_FR.md](SECURITY_FR.md) | [SECURITY.md](SECURITY.md) |
-| Gouvernance | [GOVERNANCE_FR.md](GOVERNANCE_FR.md) | [GOVERNANCE.md](GOVERNANCE.md) |
-| Avertissement sur les risques | [RISK_NOTICE_FR.md](RISK_NOTICE_FR.md) | [RISK_NOTICE.md](RISK_NOTICE.md) |
-| FAQ | [FAQ_FR.md](FAQ_FR.md) | [FAQ.md](FAQ.md) |
-| Contribution | [CONTRIBUTING_FR.md](CONTRIBUTING_FR.md) | [CONTRIBUTING.md](CONTRIBUTING.md) |
+| [Vision](VISION_FR.md) | [Écosystème](ECOSYSTEM_FR.md) | [Sécurité](SECURITY_FR.md) |
+| [Roadmap](ROADMAP_FR.md) | [Tokenomics](TOKENOMICS_FR.md) | [Avertissement sur les risques](RISK_NOTICE_FR.md) |
+| [Gouvernance](GOVERNANCE_FR.md) | [Liquidité](LIQUIDITY_FR.md) | [FAQ](FAQ_FR.md) |
+| [Documentation anglaise](README.md) | [Contribuer](CONTRIBUTING_FR.md) | [Code de conduite](CODE_OF_CONDUCT.md) |
 
-## Règle de développement public
+## Architecture
 
-Chaque fonction importante doit traverser quatre états visibles :
-
-```text
-PROPOSÉE  →  CONSTRUITE  →  TESTÉE  →  DOCUMENTÉE PUBLIQUEMENT
+```mermaid
+flowchart TD
+    MTP["Montpellier ECU · MTP"] --> SITE["Site officiel"]
+    MTP --> LIVE["MTP Live"]
+    MTP --> WALLET["MTP Wallet"]
+    MTP --> MARKET["Marketplace"]
+    MTP --> MONIA["MONIA Desktop"]
+    SITE --> COMMUNITY["Communauté et documentation publique"]
+    LIVE --> DATA["Données publiques du marché et de la blockchain"]
+    WALLET --> USE["Accès et utilisation"]
+    MARKET --> ECONOMY["Objets · services · savoir-faire"]
+    MONIA --> SITE
+    MONIA --> LIVE
+    MONIA --> WALLET
+    MONIA --> MARKET
 ```
 
-Une fonction prévue ne doit jamais être présentée comme déjà disponible.
+## Principes de développement
 
-## Ce que MTP n’est pas
-
-- Pas un produit à rendement garanti.
-- Pas une promesse de hausse du prix du token.
-- Pas un dépôt bancaire ni un actif à valeur stable.
-- Pas un substitut à un avis juridique, fiscal ou financier indépendant.
-- Pas un projet dont la crédibilité dépendrait d’une activité fabriquée ou d’un risque dissimulé.
-
-## Participer de manière responsable
-
-Consultez le [guide de contribution](CONTRIBUTING_FR.md), signalez les problèmes de sécurité conformément à la [politique de sécurité](SECURITY_FR.md) et lisez l’[avertissement sur les risques](RISK_NOTICE_FR.md) avant toute interaction avec des crypto-actifs ou des pools de liquidité.
-
-## Licence
-
-La documentation est publiée sous [licence Creative Commons Attribution 4.0 International](LICENSE). Les noms du projet, logos et marques restent la propriété de leur détenteur.
+- Construire l’utilité avant le bruit médiatique.
+- Distinguer les fonctions disponibles des idées prévues.
+- Maintenir une communication factuelle et non trompeuse.
+- Protéger les informations privées liées à la sécurité.
+- Publier une documentation vérifiable et améliorable.
+- Considérer les crypto-actifs comme risqués et ne jamais promettre de rendement.
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="assets/mtp-logo-official.png" width="110" alt="Logo MTP">
+</p>
 
-**Née en Occitanie. Valable partout dans le monde.**
-
-*Toute valeur oubliée peut retrouver sa place.*
-
-</div>
+<h3 align="center">Née en Occitanie. Valable partout dans le monde.</h3>
+<p align="center"><strong>Toute valeur oubliée peut retrouver sa place.</strong></p>
