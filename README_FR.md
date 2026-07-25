@@ -157,6 +157,7 @@ Toujours vérifier le réseau et le contrat avant toute interaction avec le toke
 | [Roadmap](ROADMAP_FR.md) | [Tokenomics](TOKENOMICS_FR.md) | [Avertissement sur les risques](RISK_NOTICE_FR.md) |
 | [Gouvernance](GOVERNANCE_FR.md) | [Liquidité](LIQUIDITY_FR.md) | [FAQ](FAQ_FR.md) |
 | [Documentation anglaise](README.md) | [Contribuer](CONTRIBUTING_FR.md) | [Code de conduite](CODE_OF_CONDUCT.md) |
+| [Remerciements](ACKNOWLEDGEMENTS_FR.md) | [Historique](CHANGELOG.md) | [Licence](LICENSE) |
 
 ## Principes de développement
 
@@ -166,6 +167,12 @@ Toujours vérifier le réseau et le contrat avant toute interaction avec le toke
 - Protéger les informations privées liées à la sécurité.
 - Publier une documentation vérifiable et améliorable.
 - Considérer les crypto-actifs comme risqués et ne jamais promettre de rendement.
+
+## Remerciements
+
+Le projet remercie les équipes d’OpenAI pour la création de ChatGPT, ainsi que les communautés open source et les plateformes ayant rendu son développement possible. Ces remerciements n’impliquent aucun partenariat, soutien officiel ou affiliation. [Lire les remerciements complets →](ACKNOWLEDGEMENTS_FR.md)
+
+<p align="center"><em>Développé indépendamment avec l’appui de technologies open source et d’outils de développement assisté par IA.</em></p>
 
 <p align="center">
   <img src="mtp-footer-v4.png" alt="Née en Occitanie. Valable partout dans le monde." width="100%">

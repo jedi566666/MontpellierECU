@@ -157,6 +157,7 @@ Always verify the network and contract before interacting with the token.
 | [Roadmap](ROADMAP.md) | [Tokenomics](TOKENOMICS.md) | [Risk notice](RISK_NOTICE.md) |
 | [Governance](GOVERNANCE.md) | [Liquidity](LIQUIDITY.md) | [FAQ](FAQ.md) |
 | [French documentation](README_FR.md) | [Contributing](CONTRIBUTING.md) | [Code of conduct](CODE_OF_CONDUCT.md) |
+| [Acknowledgements](ACKNOWLEDGEMENTS.md) | [Changelog](CHANGELOG.md) | [License](LICENSE) |
 
 ## Development principles
 
@@ -166,6 +167,12 @@ Always verify the network and contract before interacting with the token.
 - Protect private security information.
 - Publish documentation that can be reviewed and improved.
 - Treat crypto-assets as risky and never promise returns.
+
+## Acknowledgements
+
+The project thanks the teams at OpenAI for creating ChatGPT, as well as the open-source communities and platforms that made its development possible. These acknowledgements do not imply partnership, endorsement or affiliation. [Read the full acknowledgements →](ACKNOWLEDGEMENTS.md)
+
+<p align="center"><em>Built independently with the support of open-source technologies and AI-assisted development tools.</em></p>
 
 <p align="center">
   <img src="mtp-footer-v4.png" alt="Born in Occitania. Usable worldwide." width="100%">

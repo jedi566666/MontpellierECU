@@ -1,32 +1,7 @@
-# Governance Principles
+# Governance
 
-[Version française](GOVERNANCE_FR.md)
+MTP is currently an independently led project. Strategic and technical decisions are coordinated by the project founder.
 
-## Current model
+Advanced decentralized governance has not been launched. Any future governance mechanism must be documented before activation, including scope, voting eligibility, security safeguards and limits.
 
-MTP is currently founder-led. Final operational decisions remain centralised while the ecosystem is being built.
-
-This model provides speed and consistency, but also creates dependency on one decision-maker. The project should acknowledge that trade-off rather than describe the current structure as decentralised governance.
-
-## Future participation
-
-Community participation may progressively include:
-
-- public feature proposals;
-- documented feedback periods;
-- contributor working groups;
-- non-binding community polls;
-- transparent publication of accepted and rejected proposals.
-
-Token-weighted voting is not automatically considered fair or desirable, particularly while token ownership is concentrated.
-
-## Non-negotiable safeguards
-
-No future governance process should be able to:
-
-- access user private keys;
-- guarantee token value;
-- conceal financial conflicts;
-- override applicable law;
-- expose private personal-security information;
-- represent a non-binding poll as a legally binding decision.
+Community feedback is welcome through public issues and official communication channels, but feedback does not automatically create a binding vote or entitlement.

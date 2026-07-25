@@ -1,44 +1,20 @@
 # Contributing
 
-[Version française](CONTRIBUTING_FR.md)
+Thank you for your interest in Montpellier ECU.
 
-Contributions that improve clarity, security, accessibility, translation or factual accuracy are welcome.
+## Before contributing
 
-## Before opening a contribution
+- Read the README, roadmap, risk notice and code of conduct.
+- Search existing issues before opening a new one.
+- Keep proposals focused, factual and compatible with the project's independent identity.
+- Never include private keys, seed phrases, personal data or confidential credentials.
 
-- Search existing issues.
-- Do not include wallet secrets or personal information.
-- Separate factual corrections from strategic proposals.
-- Cite an on-chain or official source when changing technical data.
-- Keep English and French documents aligned where relevant.
+## Good contributions
 
-## Pull-request standard
+- Clear bug reports with reproducible steps
+- Documentation corrections
+- Accessibility and usability improvements
+- Security observations submitted responsibly
+- Translation improvements
 
-A pull request should explain:
-
-1. what changes;
-2. why it is needed;
-3. how it was verified;
-4. whether another language file must also be updated.
-
-## Content rules
-
-Contributions must not introduce:
-
-- guaranteed-return claims;
-- fabricated partnerships or statistics;
-- unverified pool addresses;
-- instructions encouraging deceptive market activity;
-- private keys, recovery phrases or doxxing information;
-- copied proprietary content without permission.
-
-## Status labels
-
-Recommended labels:
-
-- `documentation`
-- `translation`
-- `security`
-- `bug`
-- `proposal`
-- `needs-verification`
+A contribution proposal does not guarantee acceptance. The project maintainer may reject changes that create legal, security, reputational or maintenance risks.

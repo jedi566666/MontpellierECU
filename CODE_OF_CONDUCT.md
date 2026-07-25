@@ -1,9 +1,9 @@
-# Community Code of Conduct
+# Code of Conduct
 
-MTP discussions must remain respectful, factual and safe.
+Participants must communicate respectfully, focus on the work and avoid harassment, threats, discrimination, spam, scams, market manipulation claims or deceptive promotion.
 
-Participants must not engage in harassment, threats, discrimination, doxxing, impersonation, spam, deceptive promotion, coordinated market manipulation or requests for wallet secrets.
+Do not impersonate project representatives or third-party companies. Do not present personal opinions as official announcements.
 
-Criticism of the project is allowed. Security concerns and factual corrections should be handled seriously. Personal attacks are not acceptable.
+Maintainers may edit, hide or reject content and contributions that harm safety, legality, clarity or the project's integrity.
 
-Maintainers may remove content or restrict participation when these rules are violated.
+Serious or repeated violations may result in removal from project spaces.

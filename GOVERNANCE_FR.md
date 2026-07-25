@@ -1,32 +1,7 @@
-# Principes de gouvernance
+# Gouvernance
 
-[English version](GOVERNANCE.md)
+MTP est actuellement un projet dirigé de manière indépendante. Les décisions stratégiques et techniques sont coordonnées par le fondateur du projet.
 
-## Modèle actuel
+Aucune gouvernance décentralisée avancée n’est actuellement lancée. Tout futur mécanisme de gouvernance devra être documenté avant activation, notamment son périmètre, les conditions de vote, les garanties de sécurité et ses limites.
 
-MTP est actuellement dirigé par son fondateur. Les décisions opérationnelles finales restent centralisées pendant la construction de l’écosystème.
-
-Ce modèle apporte rapidité et cohérence, mais il crée aussi une dépendance envers une seule personne. Le projet doit reconnaître cet équilibre plutôt que de décrire la structure actuelle comme une gouvernance décentralisée.
-
-## Participation future
-
-La participation communautaire pourra progressivement prendre les formes suivantes :
-
-- propositions publiques de fonctionnalités ;
-- périodes de commentaires documentées ;
-- groupes de travail de contributeurs ;
-- sondages communautaires non contraignants ;
-- publication transparente des propositions acceptées ou refusées.
-
-Le vote pondéré par les tokens n’est pas automatiquement considéré comme juste ou souhaitable, notamment tant que leur détention reste concentrée.
-
-## Garanties non négociables
-
-Aucun futur processus de gouvernance ne devrait pouvoir :
-
-- accéder aux clés privées des utilisateurs ;
-- garantir la valeur du token ;
-- dissimuler des conflits financiers ;
-- contourner le droit applicable ;
-- exposer des informations privées liées à la sécurité personnelle ;
-- présenter un sondage non contraignant comme une décision juridiquement contraignante.
+Les retours de la communauté sont bienvenus via les issues publiques et les canaux officiels, mais ils ne constituent pas automatiquement un vote contraignant ni un droit acquis.

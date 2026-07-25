@@ -1,40 +1,23 @@
 # Politique de sécurité
 
-[English version](SECURITY.md)
+## Contrat officiel
 
-## Périmètre
+`0x50626097a780881d3dFf1Ff97579e6dAF965366B` sur Base.
 
-Cette politique couvre les sites publics MTP, les dépôts, les applications distribuées et la documentation maintenus par le projet.
+Toujours vérifier le réseau et l’adresse complète. Ne pas se fier à une capture d’écran, une adresse tronquée ou un message privé non sollicité.
 
 ## Signaler une vulnérabilité
 
-Ne publiez jamais dans une issue publique une vulnérabilité exploitable, une clé privée, une phrase de récupération ou des informations personnelles sur un wallet.
+Éviter de publier une faille exploitable avant qu’elle puisse être examinée. Contacter le projet via les canaux officiels indiqués dans le README avec :
 
-Utilisez le canal Telegram officiel pour demander un moyen de signalement privé :
+- le composant concerné,
+- des étapes de reproduction claires,
+- le comportement attendu et observé,
+- l’impact potentiel,
+- des captures ou journaux dont les données privées ont été retirées.
 
-https://t.me/MTPOCCITANIE
+Ne jamais transmettre de phrase de récupération, clé privée, mot de passe ou jeton d’authentification.
 
-Un signalement devrait indiquer :
+## Périmètre
 
-- le composant et la version concernés ;
-- les étapes de reproduction ;
-- l’impact réaliste ;
-- des captures ou journaux débarrassés des secrets ;
-- une preuve de concept sûre lorsque cela est pertinent.
-
-## Règles de sécurité pour les utilisateurs
-
-- Vérifier l’adresse du contrat MTP avant chaque import du token.
-- Ne jamais communiquer sa phrase de récupération ou sa clé privée.
-- Considérer comme suspects les messages d’assistance non sollicités.
-- Contrôler le réseau et la destination avant de signer.
-- Utiliser un montant de test face à un contrat ou une interface inconnus.
-- Garder privées les informations sur les avoirs personnels et la sécurité physique.
-
-## Divulgation responsable
-
-Le projet cherche à accuser réception des signalements crédibles, à les analyser puis à publier une note corrective lorsque les utilisateurs ne sont plus exposés. Aucune prime n’est promise sans accord écrit préalable.
-
-## Limites connues
-
-Les interfaces MTP peuvent dépendre d’hébergeurs, wallets, fournisseurs RPC et indexeurs de données tiers. Leur disponibilité et leur sécurité ne sont pas entièrement contrôlées par le projet.
+Ce dépôt contient principalement de la documentation publique et des ressources de présentation. Les plateformes tierces, wallets, exchanges, Base, Netlify et GitHub appliquent leurs propres politiques de sécurité.

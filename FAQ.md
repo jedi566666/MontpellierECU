@@ -1,33 +1,19 @@
 # Frequently Asked Questions
 
-[Version française](FAQ_FR.md)
+## What is MTP?
+Montpellier ECU (MTP) is an ERC-20 token deployed on Base and connected to an independently developed ecosystem of public tools.
 
-## Is MTP a stablecoin?
-No. MTP does not guarantee a fixed value or redemption price.
+## Is MTP an investment product?
+No financial return is promised. MTP is presented as a utility-oriented crypto-asset, and it remains risky.
 
-## Does MTP promise a return?
-No. The project does not promise profit, passive income or price appreciation.
+## Is OpenAI affiliated with MTP?
+No. OpenAI and ChatGPT are thanked in the acknowledgements for tool assistance. This does not imply affiliation, endorsement, sponsorship or partnership.
 
-## What is the official contract?
-`0x50626097a780881d3dFf1Ff97579e6dAF965366B` on Base.
+## Where can I verify the token?
+Use the canonical contract shown in the README and verify it on BaseScan.
 
-## What is MTP designed for?
-Practical use within an ecosystem involving a marketplace, services, software and public network tools.
+## Is every roadmap item available?
+No. Only features explicitly marked as available should be considered released.
 
-## Is MONIA mandatory?
-No. MONIA is one access option. The ecosystem should remain accessible through the web and compatible wallet tools.
-
-## Is staking available?
-No public MTP staking programme is currently launched or promised.
-
-## Who controls the project?
-The project is currently founder-led. Future participation mechanisms may be introduced progressively and documented publicly.
-
-## Why not publish personal wallet profiles?
-Blockchain balances are already publicly inspectable. The project avoids highlighting personally sensitive wallet information that could increase physical or digital security risks.
-
-## Can a pool lose value?
-Yes. Liquidity positions are exposed to price changes, impermanent loss, fees, contract risk and low market depth.
-
-## Where should I verify official information?
-Start with the official website, this repository and the canonical Base contract address.
+## Where should bugs be reported?
+Use GitHub issues for public, non-sensitive reports and follow `SECURITY.md` for security-sensitive matters.

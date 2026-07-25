@@ -1,50 +1,13 @@
 # Vision
 
-[Version française](VISION_FR.md)
+Montpellier ECU (MTP) aims to connect a public digital token with practical tools for exchange, visibility and local economic experimentation.
 
-## Mission
+The project is rooted in Montpellier and Occitania while remaining open to worldwide use. Its core principle is simple: **money is not an end; it is a means**.
 
-MTP aims to create an independent digital economy in which overlooked objects, services and skills can recover practical value.
+MTP focuses on three foundations:
 
-The token is not the final product. It is a common settlement layer connecting the project's interfaces, community and future partners.
+1. **Utility** — tools that allow people to access, monitor and use MTP.
+2. **Transparency** — public documentation, verifiable contract references and clear risk communication.
+3. **Progressive adoption** — development through real services, objects, skills and community participation rather than promises of price appreciation.
 
-## Founding principles
-
-### 1. Utility before speculation
-A sustainable ecosystem must offer reasons to use MTP beyond the expectation of resale at a higher price.
-
-### 2. Local identity, global accessibility
-MTP was born in Montpellier and carries an Occitan identity. This origin is a cultural anchor, not a geographic restriction.
-
-### 3. Independence
-The project is founder-led and developed without venture-capital control. Independence must remain compatible with accountability, public documentation and responsible partnerships.
-
-### 4. Progressive delivery
-MTP favours small, verifiable releases over oversized announcements. Products are communicated as available only after they have been built and tested.
-
-### 5. Human usefulness
-Technology should reduce friction, not create exclusion. Interfaces should remain understandable to non-specialists.
-
-## Long-term direction
-
-MTP seeks to connect:
-
-- peer-to-peer exchanges of goods;
-- local and remote services;
-- digital tools and access rights;
-- transparent network information;
-- community participation;
-- independent software distribution.
-
-## Success definition
-
-Success is not defined by a temporary token price. It is measured through:
-
-- active users;
-- completed exchanges;
-- repeat usage;
-- useful marketplace listings;
-- reliable software;
-- verifiable partners;
-- accessible liquidity;
-- transparent public documentation.
+> Born in Occitania. Usable worldwide.

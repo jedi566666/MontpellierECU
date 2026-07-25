@@ -1,40 +1,23 @@
 # Security Policy
 
-[Version française](SECURITY_FR.md)
+## Official contract
 
-## Scope
+`0x50626097a780881d3dFf1Ff97579e6dAF965366B` on Base.
 
-This policy covers public MTP websites, repositories, distributed applications and documentation maintained by the project.
+Always verify the network and full address. Do not trust screenshots, shortened addresses or unsolicited direct messages.
 
 ## Reporting a vulnerability
 
-Do not publish an exploitable vulnerability, private key, recovery phrase or personal wallet information in a public issue.
+Please avoid publishing an exploitable security issue before it can be reviewed. Contact the project through the official channels listed in the README with:
 
-Use the official project Telegram channel to request a private reporting route:
+- affected component,
+- clear reproduction steps,
+- expected and observed behavior,
+- potential impact,
+- screenshots or logs with private data removed.
 
-https://t.me/MTPOCCITANIE
+Never include seed phrases, private keys, passwords or authentication tokens.
 
-A report should include:
+## Scope
 
-- affected component and version;
-- reproducible steps;
-- realistic impact;
-- screenshots or logs with secrets removed;
-- a safe proof of concept when appropriate.
-
-## User-security rules
-
-- Verify the MTP contract address before every token import.
-- Never share a recovery phrase or private key.
-- Treat unsolicited support messages as suspicious.
-- Confirm the network and destination before signing.
-- Use a test amount for unfamiliar contracts or interfaces.
-- Keep personal holdings and physical-security information private.
-
-## Responsible disclosure
-
-The project aims to acknowledge credible reports, investigate them and publish a remediation note after users are no longer exposed. No bounty is promised unless explicitly agreed in writing before disclosure.
-
-## Known limitations
-
-MTP interfaces may rely on third-party hosting, wallet software, RPC providers and market-data indexers. Their availability and security are not fully controlled by the project.
+This repository mainly contains public documentation and presentation assets. Third-party platforms, wallets, exchanges, Base, Netlify and GitHub operate under their own security policies.

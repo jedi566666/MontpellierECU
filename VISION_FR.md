@@ -1,50 +1,13 @@
 # Vision
 
-[English version](VISION.md)
+Montpellier ECU (MTP) cherche à relier un token numérique public à des outils pratiques d’échange, de visibilité et d’expérimentation économique locale.
 
-## Mission
+Le projet est enraciné à Montpellier et en Occitanie tout en restant ouvert à une utilisation mondiale. Son principe central est simple : **l’argent n’est pas une fin, c’est un moyen**.
 
-MTP veut créer une économie numérique indépendante dans laquelle les objets, les services et les savoir-faire oubliés peuvent retrouver une valeur d’usage.
+MTP repose sur trois fondations :
 
-Le token n’est pas le produit final. Il constitue une couche d’échange commune reliant les interfaces du projet, sa communauté et ses futurs partenaires.
+1. **Utilité** — des outils permettant d’accéder au MTP, de le suivre et de l’utiliser.
+2. **Transparence** — une documentation publique, des références de contrat vérifiables et une communication claire sur les risques.
+3. **Adoption progressive** — un développement fondé sur des services, objets, savoir-faire et participations réelles plutôt que sur des promesses de hausse du prix.
 
-## Principes fondateurs
-
-### 1. L’utilité avant la spéculation
-Un écosystème durable doit offrir des raisons d’utiliser le MTP qui ne reposent pas uniquement sur l’espoir de le revendre plus cher.
-
-### 2. Une identité locale, une accessibilité mondiale
-MTP est né à Montpellier et porte une identité occitane. Cette origine est un ancrage culturel, pas une limitation géographique.
-
-### 3. L’indépendance
-Le projet est dirigé par son fondateur et développé sans contrôle d’un fonds de capital-risque. Cette indépendance doit rester compatible avec la responsabilité, la documentation publique et des partenariats sérieux.
-
-### 4. Une livraison progressive
-MTP privilégie les versions modestes et vérifiables aux annonces surdimensionnées. Un produit n’est annoncé comme disponible qu’après avoir été construit et testé.
-
-### 5. Une technologie utile aux personnes
-La technologie doit réduire les obstacles, pas créer de l’exclusion. Les interfaces doivent rester compréhensibles pour les non-spécialistes.
-
-## Direction à long terme
-
-MTP cherche à relier :
-
-- les échanges de biens entre particuliers ;
-- les services locaux et à distance ;
-- les outils numériques et droits d’accès ;
-- les informations transparentes sur le réseau ;
-- la participation communautaire ;
-- la distribution indépendante de logiciels.
-
-## Définition de la réussite
-
-La réussite ne se résume pas à un cours temporaire. Elle se mesure notamment par :
-
-- les utilisateurs actifs ;
-- les échanges réalisés ;
-- l’usage répété ;
-- les annonces utiles sur la marketplace ;
-- la fiabilité des logiciels ;
-- les partenaires vérifiables ;
-- une liquidité accessible ;
-- une documentation publique transparente.
+> Née en Occitanie. Valable partout dans le monde.
