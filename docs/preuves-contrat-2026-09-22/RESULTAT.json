@@ -1,0 +1,63 @@
+{
+  "checkedAt": "2026-09-22T07:12:28.824Z",
+  "address": "0x50626097a780881d3dFf1Ff97579e6dAF965366B",
+  "compiler": "0.8.30+commit.73712a01.Emscripten.clang",
+  "settings": {
+    "evmVersion": "cancun",
+    "libraries": {},
+    "optimizer": {
+      "enabled": true,
+      "runs": 200
+    },
+    "outputSelection": {
+      "*": {
+        "": [
+          "*"
+        ],
+        "*": [
+          "*"
+        ]
+      }
+    }
+  },
+  "block": "0x313e6bc",
+  "runtimeBytes": 1764,
+  "runtimeFullMatch": true,
+  "runtimeExplorerMatch": true,
+  "creationExplorerFullMatch": true,
+  "creationTransaction": "0x2371c5cb77ce59d24390e1e0472da0b2879c1d75e2f6a587c7367f4e3d1b8948",
+  "creationDirectMatch": true,
+  "runtimeSHA256": "182562287ca41843500137244cd3508dcf740522806234acf3368693fbef2d9d",
+  "compiledRuntimeSHA256": "182562287ca41843500137244cd3508dcf740522806234acf3368693fbef2d9d",
+  "totalSupplyRaw": "21000000000000000000000000",
+  "decimals": 18,
+  "owner": {
+    "jsonrpc": "2.0",
+    "error": {
+      "code": 3,
+      "message": "execution reverted"
+    },
+    "id": 1
+  },
+  "cap": {
+    "jsonrpc": "2.0",
+    "error": {
+      "code": 3,
+      "message": "execution reverted"
+    },
+    "id": 1
+  },
+  "functions": [
+    "allowance",
+    "approve",
+    "balanceOf",
+    "decimals",
+    "name",
+    "symbol",
+    "totalSupply",
+    "transfer",
+    "transferFrom"
+  ],
+  "proxyReported": null,
+  "implementations": []
+}

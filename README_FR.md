@@ -8,10 +8,10 @@
 
 <p align="center">
   <a href="README.md">English</a> ·
-  <a href="https://mtp-coin.netlify.app/">Site officiel</a> ·
-  <a href="https://mtplive.netlify.app/">MTP Live</a> ·
-  <a href="https://mtpwallet.netlify.app/">MTP Wallet</a> ·
-  <a href="https://mtp-coin.netlify.app/marketplace/">Marketplace</a> ·
+  <a href="https://mtptoken.pages.dev/">Site officiel</a> ·
+  <a href="https://mtptoken.pages.dev/live/">MTP Live</a> ·
+  <a href="https://mtptoken.pages.dev/wallet/">MTP Wallet</a> ·
+  <a href="https://mtptoken.pages.dev/echanges/">Marketplace</a> ·
   <a href="https://t.me/MTPOCCITANIE">Telegram</a> ·
   <a href="https://x.com/JEDI566666">X</a>
 </p>
@@ -24,6 +24,14 @@
 </p>
 
 ---
+
+## État technique — 22 septembre 2026
+
+Le contrat officiel a été recompilé indépendamment : bytecodes exécuté et de création intégralement identiques. Offre fixe : 21 millions de MTP, 18 décimales. Ce contrôle ne constitue pas un audit de sécurité exhaustif.
+
+[Preuves du contrat](docs/preuves-contrat-2026-09-22/RAPPORT.md) · [Fonctionnement réel du site](docs/ETAT-DU-SITE.md) · [Piste d’utilité à 0 €](docs/PISTE-UTILITE-ARGENT-0.md)
+
+Le Wallet consulte les soldes ; les annonces restent des brouillons locaux. Live affiche des données datées, sans garantie de transactions en temps réel. Monia 2.0.0 reste une livraison locale, pas une release publique confirmée. Les anciens documents et images peuvent décrire des versions précédentes ; la documentation technique datée ci-dessus fait référence pour la reconstruction actuelle.
 
 ## Pourquoi MTP ?
 
@@ -41,24 +49,24 @@ MTP a été créé pour relier un token public à des outils pratiques, visibles
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://mtp-coin.netlify.app/"><img src="mtp-official-website.png" alt="Site officiel MTP"></a>
+<a href="https://mtptoken.pages.dev/"><img src="mtp-official-website.png" alt="Site officiel MTP"></a>
 <h3>Site officiel</h3>
 <p>Le point d’entrée public vers l’identité, l’écosystème et les ressources officielles de MTP.</p>
-<p><a href="https://mtp-coin.netlify.app/"><strong>Ouvrir le site →</strong></a></p>
+<p><a href="https://mtptoken.pages.dev/"><strong>Ouvrir le site →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://mtplive.netlify.app/"><img src="mtp-live.png" alt="MTP Live"></a>
+<a href="https://mtptoken.pages.dev/live/"><img src="mtp-live.png" alt="MTP Live"></a>
 <h3>MTP Live</h3>
 <p>Un terminal dédié au suivi du marché, de la blockchain, des pools et de l’écosystème.</p>
-<p><a href="https://mtplive.netlify.app/"><strong>Ouvrir MTP Live →</strong></a></p>
+<p><a href="https://mtptoken.pages.dev/live/"><strong>Ouvrir MTP Live →</strong></a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://mtpwallet.netlify.app/"><img src="mtp-wallet.png" alt="MTP Wallet"></a>
+<a href="https://mtptoken.pages.dev/wallet/"><img src="mtp-wallet.png" alt="MTP Wallet"></a>
 <h3>MTP Wallet</h3>
 <p>Une interface simplifiée conçue autour de l’accès au MTP et de son utilisation quotidienne.</p>
-<p><a href="https://mtpwallet.netlify.app/"><strong>Ouvrir le Wallet →</strong></a></p>
+<p><a href="https://mtptoken.pages.dev/wallet/"><strong>Ouvrir le Wallet →</strong></a></p>
 </td>
 <td width="50%" valign="top">
 <img src="monia-desktop.png" alt="MONIA Desktop">
@@ -69,10 +77,10 @@ MTP a été créé pour relier un token public à des outils pratiques, visibles
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<a href="https://mtp-coin.netlify.app/marketplace/"><img src="mtp-marketplace.png" alt="Marketplace MTP"></a>
+<a href="https://mtptoken.pages.dev/echanges/"><img src="mtp-marketplace.png" alt="Marketplace MTP"></a>
 <h3>Marketplace MTP</h3>
-<p>Une place de marché dédiée aux objets et services dont l’unité affichée et réglée est Montpellier ECU.</p>
-<p><a href="https://mtp-coin.netlify.app/marketplace/"><strong>Ouvrir la Marketplace →</strong></a></p>
+<p>Des brouillons locaux pour objets et services, à partager manuellement ; aucune publication ni paiement automatique.</p>
+<p><a href="https://mtptoken.pages.dev/echanges/"><strong>Ouvrir la Marketplace →</strong></a></p>
 </td>
 </tr>
 </table>
@@ -130,10 +138,10 @@ flowchart TD
 | Version | Rôle | Accès |
 |---|---|---|
 | MONIA 1.0 | Application Windows officielle | [GitHub Releases](https://github.com/jedi566666/MontpellierECU/releases) |
-| Site officiel V10.3 | Point d’entrée public de l’écosystème | [Ouvrir](https://mtp-coin.netlify.app/) |
-| MTP Live V7 | Terminal de suivi | [Ouvrir](https://mtplive.netlify.app/) |
-| MTP Wallet | Interface Wallet | [Ouvrir](https://mtpwallet.netlify.app/) |
-| Marketplace | Objets et services en MTP | [Ouvrir](https://mtp-coin.netlify.app/marketplace/) |
+| Site officiel V10.3 | Point d’entrée public de l’écosystème | [Ouvrir](https://mtptoken.pages.dev/) |
+| MTP Live V7 | Terminal de suivi | [Ouvrir](https://mtptoken.pages.dev/live/) |
+| MTP Wallet | Interface Wallet | [Ouvrir](https://mtptoken.pages.dev/wallet/) |
+| Marketplace | Objets et services en MTP | [Ouvrir](https://mtptoken.pages.dev/echanges/) |
 
 ## Référence canonique du token
 
