@@ -1,3 +1,6 @@
+import { STATE } from "./state-utils.js";
+import { updatePriceDisplay } from "./ui-state.js";
+
 const words={
 fr:['Qualité des données','Réserves déclarées très faibles : un échange peut être impossible ou subir un fort écart de prix.','Certaines réserves ne sont pas renseignées. Le total peut être indisponible.','Réserves déclarées par les sources ; elles ne garantissent pas un prix d’exécution.','Exporter les pools (CSV)','Prix observés, pas prix de vente du projet. Un transfert de token n’est pas nécessairement un achat.','Dernière lecture','Aucune donnée à exporter'],
 en:['Data quality','Very low reported reserves: a swap may fail or incur high price impact.','Some reserve data is missing. Totals may be unavailable.','Source-reported reserves do not guarantee an execution price.','Export pools (CSV)','Observed prices, not project sale prices. A token transfer is not necessarily a purchase.','Last checked','No data to export'],
@@ -8,6 +11,19 @@ ar:['جودة البيانات','الاحتياطيات المعلنة منخف�
 oc:['Qualitat de las donadas','Resèrvas declaradas fòrça feblas : un escambi pòt èsser impossible o cambiar fòrça lo prètz.','Mancan de donadas sus las resèrvas. Lo total pòt èsser indisponible.','Las resèrvas declaradas garantisson pas un prètz d’execucion.','Exportar las pools (CSV)','Prètzes observats, pas prètzes de venda del projècte. Un transferiment es pas necessàriament una crompa.','Darrièra lectura','Cap de donada a exportar']};
 export const csvCell=value=>{let s=String(value??'');if(/^[\s]*[=+\-@]/.test(s))s="'"+s;return '"'+s.replaceAll('"','""')+'"'};
 export function initLiveTools(){if(!document.getElementById('pools'))return;const lang=document.documentElement.lang,w=words[lang]||words.fr,locale=lang==='oc'?'fr':lang;const panel=document.createElement('section');panel.className='panel';panel.style.marginBottom='24px';panel.innerHTML=`<h2>${w[0]}</h2><p id="live-quality" role="status">—</p><p class="notice">${w[5]}</p><div class="row"><button id="export-pools" class="button secondary" disabled>${w[4]}</button><span id="live-checked" class="label"></span></div>`;document.querySelector('.table-wrap').before(panel);let current=[],checked='';const button=document.getElementById('export-pools');
- document.addEventListener('mtp:pools',event=>{current=event.detail;checked=new Date().toISOString();button.disabled=!current.length;const values=current.map(p=>p.liquidity);document.getElementById('live-quality').textContent=!current.length?w[7]:values.some(x=>x==null)?w[2]:values.reduce((a,b)=>a+b,0)<100?w[1]:w[3];document.getElementById('live-checked').textContent=w[6]+' : '+new Date(checked).toLocaleString(locale)});
+ document.addEventListener('mtp:pools',event=>{current=event.detail;checked=new Date().toISOString();button.disabled=!current.length;const values=current.map(p=>p.liquidity);const el = document.getElementById('live-quality');
+    if (!current.length) {
+      updatePriceDisplay(el, 'UNAVAILABLE', 'Aucune pool détectée');
+    } else {
+      const hasNull = values.some(x => x == null);
+      const total = values.reduce((a, b) => a + b, 0);
+      if (hasNull) {
+        updatePriceDisplay(el, 'LOW_QUALITY', 'Réserves incomplètes');
+      } else if (total < 100) {
+        updatePriceDisplay(el, 'LOW_QUALITY', 'Réserves très faibles: $' + total.toLocaleString());
+      } else {
+        updatePriceDisplay(el, 'AVAILABLE', current.length + ' pools actives · $' + total.toLocaleString() + ' total');
+      }
+    }document.getElementById('live-checked').textContent=w[6]+' : '+new Date(checked).toLocaleString(locale)});
  button.addEventListener('click',()=>{if(!current.length)return;const rows=[['checked_at_utc','pool','dex','price_usd','reserve_usd','volume_24h_usd','source','url'],...current.map(p=>[checked,p.name,p.dex,p.price,p.liquidity,p.volume,p.source,p.url])];const csv='\uFEFF'+rows.map(row=>row.map(csvCell).join(',')).join('\r\n');const url=URL.createObjectURL(new Blob([csv],{type:'text/csv;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download='mtp-pools-'+checked.slice(0,10)+'.csv';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000)});
 }
