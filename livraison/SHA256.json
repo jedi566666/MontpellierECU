@@ -1,0 +1,22 @@
+[
+  {
+    "fichier": "MTP-SITE-COMPLET-Cloudflare.zip",
+    "octets": 1564326,
+    "sha256": "68613ae5a89d01d5342e7da585682423730c08cfe62763f6dd361eccaaebde64"
+  },
+  {
+    "fichier": "MTP-LIVE-AUTONOME.zip",
+    "octets": 1305878,
+    "sha256": "749b1ab7735eee87d0b2c5d76857ae35e625a7fcd6521abfebac3b6ebfbb9538"
+  },
+  {
+    "fichier": "MTP-WALLET-AUTONOME.zip",
+    "octets": 1305873,
+    "sha256": "24e95ca96e9b07b6698d04d867a9a56c64ff8f684ff87d91dfc5d983c8dbde3f"
+  },
+  {
+    "fichier": "MTP-SOURCES.zip",
+    "octets": 1680104,
+    "sha256": "359687d46bd30cee2dc5f716c5420e426cabeabb55de186a6f769aa7987d063f"
+  }
+]

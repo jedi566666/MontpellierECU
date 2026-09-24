@@ -1,0 +1,222 @@
+{
+  "date": "2026-09-22T09:12:13.161Z",
+  "pages": [
+    {
+      "route": "/live/",
+      "status": 200,
+      "sha256": "a1723a3b94be483cf4e1a76d253ee9e78c24aff5e0cd7d4534b0c1cea393eb5a"
+    },
+    {
+      "route": "/",
+      "status": 200,
+      "sha256": "d86875e1fe7a8d28581eeec3b024a4569b6ca6484d1a0f99c6a01b0c66e59363"
+    },
+    {
+      "route": "/wallet/",
+      "status": 200,
+      "sha256": "764388f3a224f84ff31b390fcdf4c0e2eaa8451448c1963167a81d3e29d6ff51"
+    },
+    {
+      "route": "/echanges/",
+      "status": 200,
+      "sha256": "467683d8934a7f8737ff42c4080a114fb0aae979628a51191c9bf47ec0eab94d"
+    },
+    {
+      "route": "/confidentialite/",
+      "status": 200,
+      "sha256": "b07938ecc150f5e68eaad742d35476095f32dbe8079487fc3a5760927dc7eb22"
+    },
+    {
+      "route": "/en/wallet/",
+      "status": 200,
+      "sha256": "bf69755e7afe2023b0ddd73f84078f08f64bfcb7a71d9e3758342891460c0787"
+    },
+    {
+      "route": "/documentation/",
+      "status": 200,
+      "sha256": "ba6c48ea935596ab1d8036849a33633123db9f035c147d221337fbe203a7dd4d"
+    },
+    {
+      "route": "/en/",
+      "status": 200,
+      "sha256": "fcf5791441f4ddb7ffddd652c1de81ea7280267fb46e0d3b43c895c33c6668c2"
+    },
+    {
+      "route": "/en/confidentialite/",
+      "status": 200,
+      "sha256": "3722ee716d940a6836fb91dd335500abcb89d832e4695ba29b6a4664bbb3e4c4"
+    },
+    {
+      "route": "/en/documentation/",
+      "status": 200,
+      "sha256": "2cbf0ce268090e9b44d37872c18ca8d3feb43acd01b4b38319ce945045c8301f"
+    },
+    {
+      "route": "/en/live/",
+      "status": 200,
+      "sha256": "f240e21b414e57b5024de2188c58392845e61a09bad722755f1baf3f98a16cf0"
+    },
+    {
+      "route": "/en/echanges/",
+      "status": 200,
+      "sha256": "17797c7afc08afeeaab586541bc02908660da3103a45cc500a6c52c647e7fbaa"
+    },
+    {
+      "route": "/es/",
+      "status": 200,
+      "sha256": "61951db5c042ead1a3c35f8170c79592fa46f54724f19732c7db8b3771ab65a3"
+    },
+    {
+      "route": "/es/live/",
+      "status": 200,
+      "sha256": "75572f70a35ee3ee4551658591d836ff606b2fa44e446a654c612cf086990fad"
+    },
+    {
+      "route": "/es/wallet/",
+      "status": 200,
+      "sha256": "0aa2a595f17df2eeb9213f0d562510504242474557d914d8e99883841108abca"
+    },
+    {
+      "route": "/es/echanges/",
+      "status": 200,
+      "sha256": "1dd369a66ba46d4699796ff330607efdb38e318f7d4a77b1c942178ea409e479"
+    },
+    {
+      "route": "/es/documentation/",
+      "status": 200,
+      "sha256": "f4d80195fbeeab150fd02743cc773c664fbc92c55a49b22ffb1f7eaf8e965965"
+    },
+    {
+      "route": "/it/wallet/",
+      "status": 200,
+      "sha256": "62cfdd7291eea2202ee2ba801546dc96afdbb3278ab7c51686dfe54a23947726"
+    },
+    {
+      "route": "/es/confidentialite/",
+      "status": 200,
+      "sha256": "2ad25f99dd7949b43c04acfa9d90becc82bf6dec9ea7e14348d79046142ab79e"
+    },
+    {
+      "route": "/it/",
+      "status": 200,
+      "sha256": "5664574da603f085d37f9d5c695e9779c255751a5b7ffe796ac7e474e0a07fce"
+    },
+    {
+      "route": "/it/live/",
+      "status": 200,
+      "sha256": "d34946c83daa27aa2209d0d48bb1cad10209ec0467142bd57429c46e89ce432c"
+    },
+    {
+      "route": "/it/echanges/",
+      "status": 200,
+      "sha256": "98609e26757aefafc79c5f20df78d24e7c762e32b46c79b037002292454703e5"
+    },
+    {
+      "route": "/it/documentation/",
+      "status": 200,
+      "sha256": "04bd0683dbcb3e3d6f444b2e25de4f0ec4b1099d8417f6f3907e8c7d6309627c"
+    },
+    {
+      "route": "/it/confidentialite/",
+      "status": 200,
+      "sha256": "64ae90817543f4da9ed179dbd48d483df77be7cfed7dc7f9f3bc6a5e64873dc1"
+    },
+    {
+      "route": "/de/",
+      "status": 200,
+      "sha256": "d811d8e2067b08e0fdc766c3462b7edc62254daf44249045ef42c9920cd958ea"
+    },
+    {
+      "route": "/de/echanges/",
+      "status": 200,
+      "sha256": "c8ac6f1d464655a7cb0e8807ce9256e1ef9f43319322699e6413278e4c29fc63"
+    },
+    {
+      "route": "/de/wallet/",
+      "status": 200,
+      "sha256": "69b164300cdc3bade46017ba00330138375caff8d9642fa482c12c88caf8b4e3"
+    },
+    {
+      "route": "/de/live/",
+      "status": 200,
+      "sha256": "eef43d5860bfb2428a6afe3820b5cfa56e7e39cdf151199f07601c4e432d5a38"
+    },
+    {
+      "route": "/de/documentation/",
+      "status": 200,
+      "sha256": "e972f1db45912031ceb0c0b964d459239ae6395ecc3ec2222ad1b899f5277b6b"
+    },
+    {
+      "route": "/ar/wallet/",
+      "status": 200,
+      "sha256": "c8247672dac576c155d14a9684b9ffb21cf22b2c149b430b75a56b86330e973b"
+    },
+    {
+      "route": "/ar/",
+      "status": 200,
+      "sha256": "f18180a2a303b997362f50ee9e74686cba0df238f7eb6399b7af610f7cd6614b"
+    },
+    {
+      "route": "/de/confidentialite/",
+      "status": 200,
+      "sha256": "47fa5773fc174d7e01da66d9c5d0a2f18ff8cd37491f84005a7949897c3399a7"
+    },
+    {
+      "route": "/ar/live/",
+      "status": 200,
+      "sha256": "651985ab2735a937b9c97d7beb3f91533546448f1b8d1cfd0ab1e9d43b6893ff"
+    },
+    {
+      "route": "/ar/confidentialite/",
+      "status": 200,
+      "sha256": "3ab7b48979bff576d507300c9236b6b8000b58a3883db6695623c98476695cce"
+    },
+    {
+      "route": "/ar/documentation/",
+      "status": 200,
+      "sha256": "37834febd5eeaafca3db76206d034f78032efec041a1a306191b38e4f3202fb2"
+    },
+    {
+      "route": "/ar/echanges/",
+      "status": 200,
+      "sha256": "2fd9d6e2818aaef3a52d1d1f2764fb049d539a0cd49e9fa73cd053eca85b90de"
+    },
+    {
+      "route": "/oc/echanges/",
+      "status": 200,
+      "sha256": "46ee287e02b460ab6d571cd0e1fda350fde9769153d41312803d1b47e3a2287a"
+    },
+    {
+      "route": "/oc/wallet/",
+      "status": 200,
+      "sha256": "e68d85783dbdd87530a5dddfbc52c1c44a867c53dce0a12ff5ca1a14f8b6d345"
+    },
+    {
+      "route": "/oc/live/",
+      "status": 200,
+      "sha256": "634a464ba091bd981ccb9af90a5f3744b7e5d9f7b10f3975fea3e7da413d9445"
+    },
+    {
+      "route": "/oc/",
+      "status": 200,
+      "sha256": "92e1b04c7ad77e3ef14baef315372e606aae9e8cd4d8397153db41d8980a2db9"
+    },
+    {
+      "route": "/oc/confidentialite/",
+      "status": 200,
+      "sha256": "18df62f99cf7cf05bad960ed39c8681e2a92c098b24b48ce2ed7d4dceb9bd844"
+    },
+    {
+      "route": "/oc/documentation/",
+      "status": 200,
+      "sha256": "f030e311d0bbdc9b46b38306b519eee5bec1355d9982258266fd4985213ee3ab"
+    },
+    {
+      "route": "/charte/",
+      "status": 200,
+      "sha256": "05055af39c6651259bf049452423a6daf6aeaf0e66637b975c4e69d0caf64fd6"
+    }
+  ],
+  "errors": [],
+  "browser": "Mobile charte, échanges FR et AR : aucun débordement ni erreur JavaScript"
+}

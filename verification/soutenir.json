@@ -1,0 +1,13 @@
+{
+  "base": "https://mtptoken.pages.dev",
+  "date": "2026-09-22T09:23:12.693Z",
+  "checks": [
+    "HTTP 200",
+    "Mobile et ordinateur sans débordement",
+    "Adresse copiée exactement",
+    "Réseau Base explicite",
+    "Contact Telegram",
+    "Aucune erreur JavaScript"
+  ],
+  "errors": []
+}

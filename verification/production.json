@@ -1,0 +1,56 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "google": true,
+    "reconstruction": true
+  },
+  {
+    "path": "/wallet/",
+    "status": 200,
+    "google": null,
+    "reconstruction": null
+  },
+  {
+    "path": "/live/",
+    "status": 200,
+    "google": null,
+    "reconstruction": null
+  },
+  {
+    "path": "/echanges/",
+    "status": 200,
+    "google": null,
+    "reconstruction": null
+  },
+  {
+    "path": "/confidentialite/",
+    "status": 200,
+    "google": null,
+    "reconstruction": null
+  },
+  {
+    "path": "/app.js",
+    "status": 200,
+    "google": null,
+    "reconstruction": null
+  },
+  {
+    "path": "/style.css",
+    "status": 200,
+    "google": null,
+    "reconstruction": null
+  },
+  {
+    "path": "/sitemap.xml",
+    "status": 200,
+    "google": null,
+    "reconstruction": null
+  },
+  {
+    "path": "/robots.txt",
+    "status": 200,
+    "google": null,
+    "reconstruction": null
+  }
+]
