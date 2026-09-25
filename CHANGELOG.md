@@ -1,5 +1,13 @@
 # Changelog
 
+## Édition documentaire — 25 septembre 2026
+
+- Français principal et version anglaise ; anciens chemins conservés.
+- Index Argent 0, contrat, Monia, Wallet, Live, marketplace et roadmap.
+- Statuts explicites et templates de contribution.
+- Aucune nouvelle fonctionnalité de paiement, release applicative ou modification du contrat.
+
+
 ## GitHub Edition 1.0 — 2026-07-25
 
 - Finalized premium bilingual README presentation

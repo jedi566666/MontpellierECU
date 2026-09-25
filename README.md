@@ -1,187 +1,135 @@
-<p align="center">
-  <img src="mtp-github-hero-v4.png" alt="Montpellier ECU — MTP Ecosystem" width="100%">
-</p>
+<p align="center"><img src="mtp-logo-official.png" alt="Logo officiel Montpellier ECU" width="160"></p>
 
-<p align="center">
-  <strong>An independent digital ecosystem built around Montpellier ECU (MTP) on Base.</strong>
-</p>
+# MTP — Montpellier ECU
 
-<p align="center">
-  <a href="README_FR.md">Français</a> ·
-  <a href="https://mtptoken.pages.dev/">Official Website</a> ·
-  <a href="https://mtptoken.pages.dev/live/">MTP Live</a> ·
-  <a href="https://mtptoken.pages.dev/wallet/">MTP Wallet</a> ·
-  <a href="https://mtptoken.pages.dev/echanges/">Marketplace</a> ·
-  <a href="https://t.me/MTPOCCITANIE">Telegram</a> ·
-  <a href="https://x.com/JEDI566666">X</a>
-</p>
+**Né en Occitanie, valable partout dans le monde.**
 
-<p align="center">
-  <img alt="Base" src="https://img.shields.io/badge/network-Base-0052FF?style=flat-square">
-  <img alt="MTP" src="https://img.shields.io/badge/token-MTP-D8A82E?style=flat-square&labelColor=111111">
-  <img alt="FR EN" src="https://img.shields.io/badge/documentation-FR%20%2F%20EN-8B1E17?style=flat-square">
-  <img alt="Active" src="https://img.shields.io/badge/development-active-159947?style=flat-square">
-</p>
+MTP est un crypto-actif sur Base, né à Montpellier, dont nous construisons progressivement les usages : outils numériques, échanges volontaires et création.
 
----
+**Montpellier est son origine, pas sa frontière.** L’ouverture mondiale est notre ambition ; elle ne signifie pas que MTP est accepté partout aujourd’hui.
 
-## Technical update — 22 September 2026
+[Site](https://mtptoken.pages.dev/) · [Contrat Base](https://basescan.org/token/0x50626097a780881d3dFf1Ff97579e6dAF965366B) · [MTP Live](https://mtptoken.pages.dev/live/) · [MTP App](https://github.com/jedi566666/MontpellierECU/releases) · [Documentation](docs/README.md) · [Argent 0](docs/philosophy/README.md) · [English](README.en.md)
 
-The official contract has been independently recompiled: full runtime and creation bytecode match. Fixed supply: 21 million MTP, 18 decimals. This is not a comprehensive security audit.
+## Comprendre en une minute
 
-[Contract evidence (FR)](docs/preuves-contrat-2026-09-22/RAPPORT.md) · [Current website capabilities (FR)](docs/ETAT-DU-SITE.md) · [Zero-budget utility proposal (FR)](docs/PISTE-UTILITE-ARGENT-0.md)
+- **Ce que c’est :** un token ERC-20 sur Base, avec une offre fixe de 21 millions de MTP.
+- **Pourquoi :** explorer des échanges utiles autour des objets, du temps, des compétences et des créations.
+- **Aujourd’hui :** consulter une adresse publique, observer les données disponibles, préparer une annonce locale et participer à la communauté.
+- **En construction :** paiements intégrés, publication d’annonces et parcours commerçants. Ces fonctions ne sont pas annoncées comme livrées.
+- **Vérifier :** lire le contrat, ses preuves reproductibles et les limites connues.
 
-Wallet currently reads balances; listings remain local drafts. The Live chart displays dated source data, not guaranteed real-time trades. Monia 2.0.0 is a local delivery, not a confirmed public release. Older documents and images may describe previous versions; the dated technical documentation above takes precedence for this reconstruction.
+## Pourquoi Montpellier ?
 
-## Why MTP?
+Montpellier donne au projet son point de départ. L’Occitanie lui donne une identité. Le monde constitue son horizon d’ouverture. MTP est un projet indépendant ; son nom n’annonce aucun soutien de la ville ou d’une institution.
 
-MTP was created to connect a public token with practical, visible and progressively developed tools.
+## Argent 0 — la valeur existe avant l’argent
 
-- **Local identity:** born in Montpellier and rooted in Occitania.
-- **Concrete utility:** marketplace, wallet access, monitoring and desktop software.
-- **Independent development:** no venture-capital control and no promise of financial return.
-- **Public documentation:** strategy, risks, security, liquidity and roadmap are openly documented.
+Une heure disponible. Un objet qui peut servir encore. Une compétence à transmettre. Une création à partager. La valeur existe déjà, avant d’être exprimée en monnaie.
 
-> **Give practical value back to overlooked objects, services and skills.**
+**Temps · Compétence · Savoir · Objet · Création · Service · Réemploi**
 
-## Explore the ecosystem
+Argent 0 invite à utiliser ce qui existe, réduire les dépenses inutiles et reconnaître les contributions humaines. Cela ne veut pas dire que tout doit être gratuit : le travail peut être rémunéré, les échanges doivent être consentis et les coûts réels restent visibles.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://mtptoken.pages.dev/"><img src="mtp-official-website.png" alt="MTP Official Website"></a>
-<h3>Official Website</h3>
-<p>The public entry point for the MTP identity, ecosystem and official resources.</p>
-<p><a href="https://mtptoken.pages.dev/"><strong>Open website →</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://mtptoken.pages.dev/live/"><img src="mtp-live.png" alt="MTP Live"></a>
-<h3>MTP Live</h3>
-<p>A dedicated terminal for market, blockchain, pools and ecosystem monitoring.</p>
-<p><a href="https://mtptoken.pages.dev/live/"><strong>Open MTP Live →</strong></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://mtptoken.pages.dev/wallet/"><img src="mtp-wallet.png" alt="MTP Wallet"></a>
-<h3>MTP Wallet</h3>
-<p>A streamlined interface designed around MTP access and everyday use.</p>
-<p><a href="https://mtptoken.pages.dev/wallet/"><strong>Open wallet →</strong></a></p>
-</td>
-<td width="50%" valign="top">
-<img src="monia-desktop.png" alt="MONIA Desktop">
-<h3>MONIA Desktop</h3>
-<p>The official Windows desktop application bringing the ecosystem into one interface.</p>
-<p><a href="https://github.com/jedi566666/MontpellierECU/releases"><strong>View releases →</strong></a></p>
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-<a href="https://mtptoken.pages.dev/echanges/"><img src="mtp-marketplace.png" alt="MTP Marketplace"></a>
-<h3>MTP Marketplace</h3>
-<p>Local listing drafts for objects and services; manual sharing, no automatic publication or payment.</p>
-<p><a href="https://mtptoken.pages.dev/echanges/"><strong>Open marketplace →</strong></a></p>
-</td>
-</tr>
-</table>
+MTP peut devenir un outil pour faire circuler cette valeur. C’est une utilité à démontrer avec les participants.
 
-## Project timeline
+**UTILITÉ > SPÉCULATION**
 
-```mermaid
-timeline
-    title Montpellier ECU — Public development milestones
-    Early concept : Independent digital currency idea
-    Token launch : MTP deployed on Base
-    Public web : Official website published
-    Market tools : MTP Live launched
-    Access layer : MTP Wallet released
-    Utility layer : Marketplace opened
-    Desktop layer : MONIA 1.0 released
-    Next phase : Utility growth and merchant adoption
-```
+[Lire le manifeste](docs/philosophy/argent-zero.md) · [Les sept principes](docs/philosophy/seven-principles.md) · [Premier essai d’utilité proposé](docs/PISTE-UTILITE-ARGENT-0.md)
 
-## Architecture
+## Des usages à construire, un territoire ouvert
 
-```mermaid
-flowchart TD
-    MTP["Montpellier ECU · MTP"] --> SITE["Official Website"]
-    MTP --> LIVE["MTP Live"]
-    MTP --> WALLET["MTP Wallet"]
-    MTP --> MARKET["Marketplace"]
-    MTP --> MONIA["MONIA Desktop"]
-    SITE --> DOCS["Public documentation"]
-    LIVE --> DATA["Blockchain & market data"]
-    WALLET --> ACCESS["Access & use"]
-    MARKET --> ECONOMY["Objects · services · skills"]
-    MONIA --> SITE
-    MONIA --> LIVE
-    MONIA --> WALLET
-    MONIA --> MARKET
-```
+Parcours cible, et non chaîne de services déjà intégrée :
 
-## Current status
+**MTP → MTP App → Paiement → Marketplace → De l’écran à l’abandon → Montpellier → Occitanie → Monde**
 
-| Component | Status |
+*De l’écran à l’abandon* est le premier grand écosystème d’usage visé : la BD et le jeu en développement donnent des créations concrètes autour desquelles expérimenter. Ils restent des projets distincts. Détenir MTP ne donne pas automatiquement accès à la BD, au jeu ou à des revenus.
+
+## Explorer l’écosystème
+
+### MTP Token · STABLE — déployé
+Le token existe sur Base. L’offre et les transactions sont consultables publiquement. Ce statut ne qualifie ni son prix ni son niveau de risque.
+[Explorer le contrat](https://basescan.org/token/0x50626097a780881d3dFf1Ff97579e6dAF965366B) · [Preuves](docs/preuves-contrat-2026-09-22/RAPPORT.md)
+
+### MTP App / Monia · BETA
+L’application Windows rassemble les outils du projet. La release publique est Monia 1.0 ; Monia 2.0 reste une livraison locale en attente de publication vérifiée. Les anciennes versions peuvent contenir des liens devenus indisponibles.
+[Versions publiques](https://github.com/jedi566666/MontpellierECU/releases) · [Architecture](docs/app/architecture.md)
+
+### MTP Live · BETA
+Observer les pools et les données renvoyées par les sources. La fraîcheur et la disponibilité varient ; un prix affiché ne garantit pas un prix d’exécution.
+[Ouvrir Live](https://mtptoken.pages.dev/live/) · [Fonctionnement réel](docs/ETAT-DU-SITE.md)
+
+### Marketplace · PROTOTYPE
+Préparer des annonces sur son appareil et les partager manuellement. Aucun paiement ni publication serveur automatique.
+[Préparer un brouillon](https://mtptoken.pages.dev/echanges/) · [Documentation](docs/marketplace/README.md)
+
+### Argent 0 · Documentation en harmonisation
+Une philosophie et des propositions d’usage, à éprouver avec des personnes volontaires.
+[Manifeste et textes](docs/philosophy/README.md)
+
+### De l’écran à l’abandon · Création en cours
+Une BD en préparation éditoriale et un jeu en développement. La version intégrale Ultra+ sera présentée lorsqu’elle sera prête. Aucun téléchargement final n’est annoncé ici.
+[Présentation de l’écosystème](ECOSYSTEM_FR.md) · [Roadmap](docs/roadmap/README.md)
+
+### Communauté · Participation ouverte
+Proposer une correction, une idée d’usage ou un retour d’expérience sans acheter de token pour participer.
+[Telegram](https://t.me/MTPOCCITANIE) · [Contribuer](CONTRIBUTING.md)
+
+## Transparence : vérifier avant de croire
+
+| Propriété | Référence |
 |---|---|
-| ERC-20 contract on Base | Available |
-| Official website | Available |
-| MTP Live | Available |
-| MTP Wallet | Available |
-| Marketplace | Available |
-| MONIA Windows application | Available |
-| Public bilingual documentation | Available |
-| Merchant network | In development |
-| Advanced governance and staking | Exploratory — not launched |
-
-## Latest public releases
-
-| Release | Purpose | Access |
-|---|---|---|
-| MONIA 1.0 | Official Windows application | [GitHub Releases](https://github.com/jedi566666/MontpellierECU/releases) |
-| Official Website V10.3 | Public ecosystem entry point | [Open](https://mtptoken.pages.dev/) |
-| MTP Live V7 | Monitoring terminal | [Open](https://mtptoken.pages.dev/live/) |
-| MTP Wallet | Wallet interface | [Open](https://mtptoken.pages.dev/wallet/) |
-| Marketplace | Objects and services in MTP | [Open](https://mtptoken.pages.dev/echanges/) |
-
-## Canonical token reference
-
-| Property | Value |
-|---|---|
-| Name | Montpellier ECU |
-| Symbol | MTP |
-| Network | Base |
+| Réseau | Base — chain ID 8453 |
 | Standard | ERC-20 |
-| Maximum supply | 21,000,000 MTP |
-| Decimals | 18 |
-| Contract | [`0x50626097a780881d3dFf1Ff97579e6dAF965366B`](https://basescan.org/token/0x50626097a780881d3dFf1Ff97579e6dAF965366B) |
+| Décimales | 18 |
+| Offre fixe créée au déploiement | 21 000 000 MTP |
+| Contrat officiel | `0x50626097a780881d3dFf1Ff97579e6dAF965366B` |
 
-Always verify the network and contract before interacting with the token.
+Le contrôle du 22 septembre 2026 a reproduit le bytecode de création et le runtime intégralement. Les sources correspondantes ne définissent ni mint public après construction ni administration Ownable. Cette preuve de correspondance ne constitue pas un audit exhaustif de sécurité.
 
-## Documentation
+[Rapport reproductible](docs/preuves-contrat-2026-09-22/RAPPORT.md) · [Sources et résultats archivés](docs/preuves-contrat-2026-09-22/MTP-PREUVE-BYTECODE-2026-09-22.zip) · [Explorateur](https://basescan.org/address/0x50626097a780881d3dFf1Ff97579e6dAF965366B#code)
 
-| Strategy | Operations | Trust |
-|---|---|---|
-| [Vision](VISION.md) | [Ecosystem](ECOSYSTEM.md) | [Security](SECURITY.md) |
-| [Roadmap](ROADMAP.md) | [Tokenomics](TOKENOMICS.md) | [Risk notice](RISK_NOTICE.md) |
-| [Governance](GOVERNANCE.md) | [Liquidity](LIQUIDITY.md) | [FAQ](FAQ.md) |
-| [French documentation](README_FR.md) | [Contributing](CONTRIBUTING.md) | [Code of conduct](CODE_OF_CONDUCT.md) |
-| [Acknowledgements](ACKNOWLEDGEMENTS.md) | [Changelog](CHANGELOG.md) | [License](LICENSE) |
+Les anciennes générations de contrat sont historiques. Une donation volontaire de 100 000 MTP est connue ; elle ne doit pas être présentée comme une anomalie. Les soldes et répartitions doivent toujours être datés et vérifiés.
 
-## Development principles
+## Où en sommes-nous ?
 
-- Build utility before hype.
-- Separate released features from planned ideas.
-- Keep public communication factual and non-misleading.
-- Protect private security information.
-- Publish documentation that can be reviewed and improved.
-- Treat crypto-assets as risky and never promise returns.
+| Composant | Statut au 25 septembre 2026 |
+|---|---|
+| Token | STABLE — déployé |
+| Site | BETA |
+| MTP App / Monia | BETA |
+| MTP Live | BETA |
+| Marketplace | PROTOTYPE |
+| Paiement intégré | PLANNED |
+| Mode commerçant | PLANNED |
+| Argent 0 | PROTOTYPE éditorial |
+| Documentation | BETA |
 
-## Acknowledgements
+Ces états décrivent les fonctions et documents, pas une promesse de calendrier ou de rendement.
 
-The project thanks the teams at OpenAI for creating ChatGPT, as well as the open-source communities and platforms that made its development possible. These acknowledgements do not imply partnership, endorsement or affiliation. [Read the full acknowledgements →](ACKNOWLEDGEMENTS.md)
+## Roadmap : gagner en utilité
 
-<p align="center"><em>Built independently with the support of open-source technologies and AI-assisted development tools.</em></p>
+1. **De l’écran à l’abandon :** terminer les livrables créatifs et définir un premier usage volontaire.
+2. **MTP App :** fiabiliser la version distribuée, ses liens et sa documentation.
+3. **Marketplace :** tester les annonces, puis définir publication, modération et responsabilités.
+4. **Montpellier :** expérimenter avec des volontaires, recueillir leurs retours.
+5. **Occitanie :** étendre uniquement les usages qui ont fait leurs preuves.
+6. **France :** adapter les parcours et la documentation aux participants.
+7. **Monde :** ouvrir les usages et les langues selon la demande réelle.
 
-<p align="center">
-  <img src="mtp-footer-v4.png" alt="Born in Occitania. Usable worldwide." width="100%">
-</p>
+Chaque phase dépend de résultats vérifiables, de ressources disponibles et d’une validation humaine. Aucun partenaire ou commerçant n’est déclaré acquis par cette roadmap.
+
+## Participer et retrouver les sources
+
+Une correction de documentation, un test mobile ou une traduction relue peut déjà aider. Décrire le problème, le résultat attendu et les preuves, puis proposer une issue ou une pull request. Ne pas publier de secret ni de vulnérabilité exploitable dans une discussion publique.
+
+[Contribution](CONTRIBUTING.md) · [Sécurité](SECURITY.md) · [Historique](CHANGELOG.md) · [Sources web actuelles — branche master](https://github.com/jedi566666/MontpellierECU/tree/master)
+
+Les sources web et la vitrine documentaire occupent actuellement deux branches distinctes. Le périmètre des licences est en clarification ; la présence publique d’un fichier ne suffit pas à attribuer les mêmes droits à la BD, aux logiciels et aux marques.
+
+## Développement assisté par IA
+
+ChatGPT, Codex et d’autres outils assistent le développement, les contrôles, les tests et la documentation. Mehdi Souissi conserve la direction du projet. Les décisions, validations, transactions blockchain et responsabilités restent humaines.
+
+Merci à OpenAI et aux communautés des outils libres utilisés. Ces remerciements n’impliquent aucun partenariat officiel.
+
+**Une identité. Une philosophie. Une source de vérité.**

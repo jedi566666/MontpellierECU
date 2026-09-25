@@ -1,20 +1,11 @@
-# Contributing
+# Contribuer à MTP
+Une correction, un test mobile ou une traduction relue peut aider sans acheter de MTP.
 
-Thank you for your interest in Montpellier ECU.
+1. Rechercher une discussion ou un document existant.
+2. Décrire le besoin, le résultat attendu et les preuves, sans donnée privée.
+3. Proposer une modification limitée, avec des liens qui fonctionnent et le statut réel des fonctions.
+4. Vérifier le rendu français/anglais et expliquer les contrôles effectués dans la pull request.
 
-## Before contributing
+La documentation principale est sur main ; les sources web sont sur master. Ne pas fusionner ces branches en bloc. Préserver les anciennes preuves et les liens publics. Ne pas modifier de contrat ni engager une transaction dans une contribution documentaire.
 
-- Read the README, roadmap, risk notice and code of conduct.
-- Search existing issues before opening a new one.
-- Keep proposals focused, factual and compatible with the project's independent identity.
-- Never include private keys, seed phrases, personal data or confidential credentials.
-
-## Good contributions
-
-- Clear bug reports with reproducible steps
-- Documentation corrections
-- Accessibility and usability improvements
-- Security observations submitted responsibly
-- Translation improvements
-
-A contribution proposal does not guarantee acceptance. The project maintainer may reject changes that create legal, security, reputational or maintenance risks.
+Pour une faille exploitable, lire [SECURITY.md](SECURITY.md) avant toute publication. [Principes Argent 0](docs/philosophy/README.md).
