@@ -1,0 +1,34 @@
+name: Publish approved marketplace listings
+on:
+  workflow_dispatch:
+  issues:
+    types: [labeled, unlabeled, edited, closed, reopened, deleted]
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: marketplace-catalog
+  cancel-in-progress: false
+jobs:
+  catalog:
+    if: github.event_name == 'workflow_dispatch' || github.event.label.name == 'marketplace-approved' || contains(github.event.issue.labels.*.name, 'marketplace-approved') || startsWith(github.event.issue.title, '[Annonce]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+      - name: Rebuild approved public catalogue
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node marketplace/sync.cjs
+      - name: Save catalogue
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add marketplace/catalog.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update approved marketplace catalogue'
+            git push origin HEAD:main
+          fi
