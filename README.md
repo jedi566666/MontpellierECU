@@ -133,3 +133,8 @@ ChatGPT, Codex et d’autres outils assistent le développement, les contrôles,
 Merci à OpenAI et aux communautés des outils libres utilisés. Ces remerciements n’impliquent aucun partenariat officiel.
 
 **Une identité. Une philosophie. Une source de vérité.**
+
+
+## Conception du jeu
+
+[De l’écran à l’abandon — architecture, tramway et monde ouvert Godot](docs/jeu/README.md). Trois dossiers révisés, avec les résultats historiques, les améliorations proposées et les critères de validation.
