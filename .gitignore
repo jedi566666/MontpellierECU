@@ -1,0 +1,42 @@
+# Secrets et credentials
+.env
+.env.*
+*.pem
+*.key
+*-credentials*
+*-secrets*
+*secret*
+*password*
+*token*
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Caches et temporaires
+.wrangler/
+*.log
+*.pid
+*.sock
+*.lock
+__pycache__/
+node_modules/
+.tmp/
+.cache/
+*.pyc
+*.pyo
+
+# Données privées MTP
+philosophie_mtp_temp/
+temp-philosophie-d/
+reddit-mtp/
+output/
+
+# PDF volumineux (publiés séparément si public)
+*.pdf
+
+# État et historique internes
+history.jsonl
+
+
+# Archives générées
+livraison/*.zip

@@ -1,22 +1,22 @@
 [
   {
     "fichier": "MTP-SITE-COMPLET-Cloudflare.zip",
-    "octets": 1564326,
-    "sha256": "68613ae5a89d01d5342e7da585682423730c08cfe62763f6dd361eccaaebde64"
+    "octets": 1207217,
+    "sha256": "1b9db2921ad366585dba28738b977db7eb418fdc8054b496515e552da91dee15"
   },
   {
     "fichier": "MTP-LIVE-AUTONOME.zip",
-    "octets": 1305878,
-    "sha256": "749b1ab7735eee87d0b2c5d76857ae35e625a7fcd6521abfebac3b6ebfbb9538"
+    "octets": 1173366,
+    "sha256": "9021ca6d42f7fb1e9f89a18d38fbe7ba6c1321452973b2be8ef4eaf06cd6a7db"
   },
   {
     "fichier": "MTP-WALLET-AUTONOME.zip",
-    "octets": 1305873,
-    "sha256": "24e95ca96e9b07b6698d04d867a9a56c64ff8f684ff87d91dfc5d983c8dbde3f"
+    "octets": 1173358,
+    "sha256": "6f220cb32f3d26ed6baef3fcb9b246cf69b58caa6ad710dbcf06746e714cbfb4"
   },
   {
     "fichier": "MTP-SOURCES.zip",
-    "octets": 1680104,
-    "sha256": "359687d46bd30cee2dc5f716c5420e426cabeabb55de186a6f769aa7987d063f"
+    "octets": 212652188,
+    "sha256": "5082b6852f2c1bc0c6a42f3b9611990bc5c7b6b5d042f4bdd0a45cdb62eea690"
   }
 ]

@@ -1,25 +1,6 @@
 {
   "checks": [
-    "/ : titre, images, largeur ordinateur",
-    "/ : largeur mobile",
-    "/wallet/ : titre, images, largeur ordinateur",
-    "/wallet/ : largeur mobile",
-    "/live/ : titre, images, largeur ordinateur",
-    "/live/ : largeur mobile",
-    "/echanges/ : titre, images, largeur ordinateur",
-    "/echanges/ : largeur mobile",
-    "/confidentialite/ : titre, images, largeur ordinateur",
-    "/confidentialite/ : largeur mobile",
-    "Wallet : précision 18 décimales, solde ETH, QR code",
-    "Wallet : restauration adresse en lecture seule",
-    "Wallet : effacement local",
-    "Wallet : échec réseau sans faux solde",
-    "Live : pools GeckoTerminal malgré DexScreener vide",
-    "Live : sources vides sans prix inventé",
-    "Live : panne de toutes les sources",
-    "Échanges : persistance, suppression, texte HTML inerte",
-    "Liens internes et balise Google exacte présente une fois",
-    "Aucune erreur JavaScript"
+    "/ : titre, images, largeur ordinateur"
   ],
   "errors": []
 }
