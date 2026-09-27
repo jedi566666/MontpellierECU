@@ -138,3 +138,12 @@ Merci à OpenAI et aux communautés des outils libres utilisés. Ces remerciemen
 ## Conception du jeu
 
 [De l’écran à l’abandon — architecture, tramway et monde ouvert Godot](docs/jeu/README.md). Trois dossiers révisés, avec les résultats historiques, les améliorations proposées et les critères de validation.
+
+
+## Carnet des expérimentations IA
+
+- [Manipulations IA — FR](docs/manipulations_ia.md)
+- [AI experiments — EN](docs/manipulations_ia_en.md)
+- [Frankenstein : reconstitution et limites](frankenstein/README-corrige.md)
+- [Sources du portail et procédure de publication](website/portal/README.md)
+- [Merci OpenAI](https://mtptoken.pages.dev/remerciements-openai/)

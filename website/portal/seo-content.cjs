@@ -1,0 +1,8 @@
+module.exports=function({fs,path,root,base}){
+ const files=[];function walk(d){for(const e of fs.readdirSync(d,{withFileTypes:true})){const p=path.join(d,e.name);if(e.isDirectory())walk(p);else if(e.name==='index.html')files.push(p)}}walk(root);
+ for(const file of files){let h=fs.readFileSync(file,'utf8');h=h.replace('</head>','<meta property="og:site_name" content="Montpellier ECU"><meta name="robots" content="index,follow,max-image-preview:large"></head>');
+ if(file===path.join(root,'index.html')){h=h.replace(/<title>.*?<\/title>/,'<title>Montpellier ECU (MTP) — Token Base, Argent 0 et créations</title>');const graph={'@context':'https://schema.org','@type':'WebSite','@id':base+'/#website',url:base+'/',name:'Montpellier ECU',alternateName:['MTP','MTP Token'],inLanguage:['fr','en','es','it','de','ar','oc']};h=h.replace('</head>','<script type="application/ld+json">'+JSON.stringify(graph)+'</script></head>');
+ h=h.replace('</main>','<section class="section wrap"><div class="eyebrow">Comprendre Montpellier ECU</div><h2>MTP, Argent 0 et les coulisses de création.</h2><p>Montpellier ECU est un token sur Base et un projet indépendant né à Montpellier. Découvrez ses outils, les preuves du contrat et la démarche créative qui accompagne son développement.</p><p><a class="textlink" href="/documentation/">Vérifier le contrat et les fonctions disponibles →</a></p><p><a class="textlink" href="/coulisses/">BD, jeu et outils : le carnet de fabrication →</a></p><p><a class="textlink" href="/remerciements-openai/">Créer avec ChatGPT et Codex : quatre fiches pratiques →</a></p><p><a class="textlink" href="https://github.com/jedi566666/MontpellierECU">Argent 0 et documentation publique sur GitHub →</a></p></section></main>');}
+ fs.writeFileSync(file,h);
+ }
+};

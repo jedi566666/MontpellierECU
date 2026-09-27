@@ -123,3 +123,12 @@ ChatGPT, Codex and other tools assist development, reviews, tests and documentat
 Thanks to OpenAI and the communities behind the open tools used. These acknowledgements do not imply an official partnership.
 
 **One identity. One philosophy. One source of truth.**
+
+
+## AI experiment journal
+
+- [Manipulations IA — FR](docs/manipulations_ia.md)
+- [AI experiments — EN](docs/manipulations_ia_en.md)
+- [Frankenstein : reconstitution et limites](frankenstein/README-corrige.md)
+- [Sources du portail et procédure de publication](website/portal/README.md)
+- [Merci OpenAI](https://mtptoken.pages.dev/remerciements-openai/)

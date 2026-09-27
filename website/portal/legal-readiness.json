@@ -1,0 +1,9 @@
+{
+  "reviewDate": "2026-09-22",
+  "budgetEuro": 0,
+  "seller": { "status": "A_DETERMINER", "siren": null, "siret": null, "businessAddress": null, "publicEmail": null, "legalPhone": null },
+  "books": { "salesEnabled": false, "rightsVerified": false, "finalFilesValidated": false, "artistAuthorRegistration": null, "vatTreatment": null, "mediatorAgreement": null, "merchantWalletConfirmed": false, "termsApproved": false, "withdrawalFlowReady": false },
+  "tokenSale": { "salesEnabled": false, "legalClassification": null, "offerorLegalEntity": null, "micaBasis": null, "amfFormalities": null, "caspAssessment": null, "taxTreatment": null },
+  "marketplace": { "salesEnabled": false, "accountsEnabled": false, "businessRegistration": null, "commissionCentsEuro": 20, "commissionPaidBy": "buyer", "paymentModelProposed": "direct-buyer-to-seller-no-platform-custody", "paymentModelLegallyAssessed": false, "vatTreatment": null, "mediatorAgreement": null, "dac7Assessment": null, "dsaAssessment": null, "privacyRegisterReady": false },
+  "notice": "Champs non renseignés = points à résoudre, pas dispenses. Ce fichier documente la préparation ; il ne constitue ni déclaration ni agrément. Les paiements réels restent désactivés."
+}

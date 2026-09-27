@@ -1,0 +1,8 @@
+// Use actual public pages and matching alternate links; lastmod changes only with content.
+module.exports=function({fs,path,root,base}){
+ const crypto=require('node:crypto'),statePath=path.join(__dirname,'seo-state.json');let old={};if(fs.existsSync(statePath))old=JSON.parse(fs.readFileSync(statePath,'utf8'));
+ const state={},entries=[],esc=s=>s.replaceAll('&','&amp;').replaceAll('"','&quot;').replaceAll('<','&lt;');
+ function visit(dir){for(const e of fs.readdirSync(dir,{withFileTypes:true})){const file=path.join(dir,e.name);if(e.isDirectory())visit(file);else if(e.name==='index.html'){const html=fs.readFileSync(file,'utf8'),url=html.match(/<link rel="canonical" href="([^"]+)"/)?.[1];if(!url||new URL(url).origin!==base||/<meta name="robots" content="[^"]*noindex/.test(html))continue;const hash=crypto.createHash('sha256').update(html).digest('hex');const lastmod=old[url]?.hash===hash?old[url].lastmod:new Date().toISOString();state[url]={hash,lastmod};const alternates=[...html.matchAll(/<link rel="alternate" hreflang="([^"]+)" href="([^"]+)"\s*\/?\s*>/g)].map(m=>`<xhtml:link rel="alternate" hreflang="${esc(m[1])}" href="${esc(m[2])}"/>`).join('');entries.push(`<url><loc>${esc(url)}</loc><lastmod>${lastmod}</lastmod>${alternates}</url>`)}}}
+ visit(root);if(entries.length!==Object.keys(state).length)throw Error('Duplicate canonical pages');
+ fs.writeFileSync(path.join(root,'sitemap.xml'),'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">\n'+entries.sort().join('\n')+'\n</urlset>\n');fs.writeFileSync(statePath,JSON.stringify(state,null,2)+'\n');console.log('Sitemap: '+entries.length+' canonical pages; content-based lastmod.');
+};

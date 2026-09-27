@@ -1,0 +1,19 @@
+/* Two faces of the official MTP artwork. No replacement or fabricated coin. */
+.mtp-page-transition{position:fixed;inset:0;z-index:200;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:40px;background:radial-gradient(ellipse at center,#48321755,transparent 52%),#090909;opacity:0;visibility:hidden;pointer-events:none;perspective:850px;contain:layout paint}
+[data-mtp-transition] .mtp-page-transition{visibility:visible;opacity:1}
+[data-mtp-transition=leaving] .mtp-page-transition{animation:mtp-cover 140ms ease-out both;pointer-events:auto}
+[data-mtp-transition=arriving] .mtp-page-transition{animation:mtp-uncover 600ms ease both}
+.mtp-transition-coin{position:relative;width:144px;height:144px;transform-style:preserve-3d;border-radius:50%;box-shadow:0 0 65px #c3942525}
+.mtp-transition-coin img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;border:2px solid #c79b35;border-radius:50%;background:#090909;backface-visibility:hidden}
+.coin-front{transform:translateZ(3px)}
+.coin-back{transform:rotateY(180deg) translateZ(3px)}
+[data-mtp-transition=leaving] .mtp-transition-coin{animation:mtp-coin-depart 460ms cubic-bezier(.35,0,.65,1) both}
+[data-mtp-transition=arriving] .mtp-transition-coin{animation:mtp-coin-arrive 600ms cubic-bezier(.2,.7,.3,1) both}
+.mtp-transition-orbit{position:absolute;width:230px;height:230px;margin-top:-54px;border:1px solid #cdb3832b;border-radius:50%;box-shadow:0 0 0 25px #cdb38305,inset 0 0 50px #cdb38304}
+.mtp-transition-signature{font:10px/1.5 Arial,sans-serif;letter-spacing:4px;color:#ddc28c}
+@keyframes mtp-cover{from{opacity:0}to{opacity:1}}
+@keyframes mtp-uncover{0%,48%{opacity:1}100%{opacity:0;visibility:hidden}}
+@keyframes mtp-coin-depart{from{transform:rotateY(0) rotateZ(-8deg)}to{transform:rotateY(540deg) rotateZ(8deg)}}
+@keyframes mtp-coin-arrive{from{transform:rotateY(180deg) rotateZ(8deg)}to{transform:rotateY(540deg) rotateZ(-8deg)}}
+@media(prefers-reduced-motion:reduce){.mtp-page-transition{display:none!important}}
+@media print{.mtp-page-transition{display:none!important}}

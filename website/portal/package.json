@@ -1,0 +1,16 @@
+{
+  "name": "mtp-web",
+  "private": true,
+  "version": "3.0.0",
+  "scripts": {
+    "build": "node build.cjs && node build-locales.cjs",
+    "test": "node test.cjs"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12",
+    "wrangler": "4.76.0"
+  },
+  "dependencies": {
+    "qrcode": "1.5.4"
+  }
+}
