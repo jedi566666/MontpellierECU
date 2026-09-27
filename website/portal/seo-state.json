@@ -1,206 +1,214 @@
 {
   "https://mtptoken.pages.dev/ar/confidentialite/": {
-    "hash": "116cbce65d0ce9d56050347b0fa29a53d31a5d0f7a2f8410801f354f9148d956",
-    "lastmod": "2026-09-27T09:14:25.602Z"
+    "hash": "2b32f30dee112ae5de161f015a35e805a1c009c52fa055abc6e23941134a9087",
+    "lastmod": "2026-09-27T09:21:38.311Z"
   },
   "https://mtptoken.pages.dev/ar/documentation/": {
-    "hash": "6025769e0fe7cc7bf05388c810e9b0ba5a3e3f2b43d509c6ece3fcbe1b21dc6f",
-    "lastmod": "2026-09-27T09:14:25.605Z"
+    "hash": "9c5402c63c883045de11a65498702127244b2c247b674d254bc250b3367dda57",
+    "lastmod": "2026-09-27T09:21:38.314Z"
   },
   "https://mtptoken.pages.dev/ar/echanges/": {
-    "hash": "65aff5fcbb8fda3dd5f8d01f9b7307a3d41ca4683e30fc00400e321477ea8a02",
-    "lastmod": "2026-09-27T09:14:25.606Z"
+    "hash": "4d14c1a82c94a992faa07487e672513d8495c9e634338da7ffbc714cbf77a65b",
+    "lastmod": "2026-09-27T09:21:38.316Z"
   },
   "https://mtptoken.pages.dev/ar/": {
-    "hash": "85a089b4e53b6709956cf33199ed4a35c6ed11f1d41342d3de7bf1fac15f8009",
-    "lastmod": "2026-09-27T09:14:25.607Z"
+    "hash": "de46c5a5ab40ba95d494a09ff84ab74c2954b19fd113749dfecfdd2376b69877",
+    "lastmod": "2026-09-27T09:21:38.317Z"
   },
   "https://mtptoken.pages.dev/ar/live/": {
-    "hash": "d578409345c6e7a5188b42ce7608a2c2b24b6e98733dc562edf9a9a04d87f29c",
-    "lastmod": "2026-09-27T09:14:25.608Z"
+    "hash": "24562d75f118bc2abf69722661cd3310e683b6ba9cbecd318d3acc043ef6320a",
+    "lastmod": "2026-09-27T09:21:38.318Z"
   },
   "https://mtptoken.pages.dev/ar/wallet/": {
-    "hash": "b613da64cd72dfa1400ab22a0d92285e8fedc56d44a5eac4ba92e408604b288a",
-    "lastmod": "2026-09-27T09:14:25.609Z"
+    "hash": "46f7811b7655a229a09a9f2a732abedef55910ad4f1bbea98de971c8f61b71da",
+    "lastmod": "2026-09-27T09:21:38.320Z"
   },
   "https://mtptoken.pages.dev/bd/": {
-    "hash": "4eede08e18bcebbb00cf302fd6ca5c6a2b8bf8a49893fcbe62d9da170ed26adc",
-    "lastmod": "2026-09-27T09:14:25.610Z"
+    "hash": "8d3efee0c5ccd5873aabf460a850eabfce128c614435d6bb84a03491c82a2e27",
+    "lastmod": "2026-09-27T09:21:38.321Z"
   },
   "https://mtptoken.pages.dev/charte/": {
-    "hash": "4707df9f6b08c50437abac364ce394d4c2dc0766a4781175ab33518072caf165",
-    "lastmod": "2026-09-27T09:14:25.611Z"
+    "hash": "25e5c6232b64b93de40e06311d3acee8a5d8738e3f08c4d39bab46d658839005",
+    "lastmod": "2026-09-27T09:21:38.323Z"
   },
   "https://mtptoken.pages.dev/confidentialite/": {
-    "hash": "eaa8684faf5b34910a9c3441a5ed5794869b979c0fef330ca00ef628f56682d3",
-    "lastmod": "2026-09-27T09:14:25.613Z"
+    "hash": "8e3b71468056c5a68570c03fd0396497becbf32ed16bf0aa749be1ad0083c68a",
+    "lastmod": "2026-09-27T09:21:38.325Z"
   },
   "https://mtptoken.pages.dev/coulisses/": {
-    "hash": "ecc7f4ed12f07049f642e71864313289397fbb497e82acaf6cf8ea36f854fe0a",
-    "lastmod": "2026-09-27T09:14:25.614Z"
+    "hash": "f1d66c33a2bd6d97a05381e3ec544dd4e1c9dcb206991c4f9e2dcfa3567bff5a",
+    "lastmod": "2026-09-27T09:21:38.326Z"
   },
   "https://mtptoken.pages.dev/de/confidentialite/": {
-    "hash": "1c6a31e09c5a99211cb3281b7a8d1b15057148c222defb936ca97a8fab6a340c",
-    "lastmod": "2026-09-27T09:14:25.615Z"
+    "hash": "840033358930439106a635471cf67d8eff0aa930bce88d29258d91d2aef864b6",
+    "lastmod": "2026-09-27T09:21:38.328Z"
   },
   "https://mtptoken.pages.dev/de/documentation/": {
-    "hash": "d29e0a182320820f778a28057205458e90adb55276173ce1cd1c58e1c2b3a0ba",
-    "lastmod": "2026-09-27T09:14:25.616Z"
+    "hash": "372c60930bcc121b471effa0126d8bde7af9a19be1492fe430407368eb80cd10",
+    "lastmod": "2026-09-27T09:21:38.331Z"
   },
   "https://mtptoken.pages.dev/de/echanges/": {
-    "hash": "353b37aac6f6a05e3c4623d9141d180f3d3a285b8176abdf1019e9a385c9d807",
-    "lastmod": "2026-09-27T09:14:25.617Z"
+    "hash": "f558e4dbd24fad7a7dd3906ec8db47d3854737cdcd82546c86f528e139a1b452",
+    "lastmod": "2026-09-27T09:21:38.333Z"
   },
   "https://mtptoken.pages.dev/de/": {
-    "hash": "4b5c48ca408f7d078cd403384a2f8843a6754d53334549d8e1fccc06775bbb49",
-    "lastmod": "2026-09-27T09:14:25.618Z"
+    "hash": "2ff8c5b87b16185e4b21d6b3fc6792fbcf72079f15b3bd780f57269205d84cdd",
+    "lastmod": "2026-09-27T09:21:38.334Z"
   },
   "https://mtptoken.pages.dev/de/live/": {
-    "hash": "2b9f156497c53250933c57c9d2339d6bde7c8026cf35a5c732b241a9c260ee05",
-    "lastmod": "2026-09-27T09:14:25.619Z"
+    "hash": "66d9690c80f950f8b5dc1cf473237b9290831a584abf4aebbfc1dc1b0f13cf7a",
+    "lastmod": "2026-09-27T09:21:38.336Z"
   },
   "https://mtptoken.pages.dev/de/wallet/": {
-    "hash": "3c64463bd93f19425bec8c2e71d090ff25e53ea965d0ca5a0755a6126202a3af",
-    "lastmod": "2026-09-27T09:14:25.619Z"
+    "hash": "8383af93c1629be7f589728a618b8bdf9d3b277439442750266d86b66ae1b9d7",
+    "lastmod": "2026-09-27T09:21:38.337Z"
   },
   "https://mtptoken.pages.dev/documentation/": {
-    "hash": "ee53b34d5c3083839e609ecfd4b689d37f64a5a9b14966723379fcc1c09ae97d",
-    "lastmod": "2026-09-27T09:14:25.620Z"
+    "hash": "84132df17cfbd9ff0ce346fa24f243cb4b8f83fe01c288b0bd9158430427cdc8",
+    "lastmod": "2026-09-27T09:21:38.339Z"
   },
   "https://mtptoken.pages.dev/echanges/": {
-    "hash": "73c06e152ba6a81f1bdd9b96dfca1c3d5fed26bc96fc4def671201435dafac9d",
-    "lastmod": "2026-09-27T09:14:25.621Z"
+    "hash": "0cb777f70dd8071644ac0c03efdef8f129d90f0c66d2a4399f7dcd62e733d12d",
+    "lastmod": "2026-09-27T09:21:38.341Z"
   },
   "https://mtptoken.pages.dev/en/confidentialite/": {
-    "hash": "f592550e13931ce274a9672c56efe481d51666817300fa70cd0d42a6a881d673",
-    "lastmod": "2026-09-27T09:14:25.623Z"
+    "hash": "4eecb7690b6a765c300a215b881e8eb7f14e5655aa18b558fea2bb3bda7b4936",
+    "lastmod": "2026-09-27T09:21:38.342Z"
   },
   "https://mtptoken.pages.dev/en/documentation/": {
-    "hash": "891f264bc1dd8d8ae237505c5c4dadcb30f60bc97353e23c7276d69da02e4197",
-    "lastmod": "2026-09-27T09:14:25.623Z"
+    "hash": "5965287bfeb8c6fc31b95d588e42e310f57bd71e36162a82c7e4b3c452749a8a",
+    "lastmod": "2026-09-27T09:21:38.344Z"
   },
   "https://mtptoken.pages.dev/en/echanges/": {
-    "hash": "b5a3357fdd1404b978e5a323d922be6d68a851efc3857186d8d907a0c3281ff1",
-    "lastmod": "2026-09-27T09:14:25.624Z"
+    "hash": "3e35911b1a05e2ac60ab52734bfc822c42c28f0a5b940010afdcccf171f896fb",
+    "lastmod": "2026-09-27T09:21:38.346Z"
   },
   "https://mtptoken.pages.dev/en/": {
-    "hash": "11b71d6e02574e48c82d2705bf84754f575c0ed475472278f9cde8f0575c8f28",
-    "lastmod": "2026-09-27T09:14:25.625Z"
+    "hash": "429122abc30f25d6c24eaa7d0e0549ffe4b65f1c916923f0e88dc777d0fe2edd",
+    "lastmod": "2026-09-27T09:21:38.347Z"
   },
   "https://mtptoken.pages.dev/en/live/": {
-    "hash": "77d144c81db137b5423e2cea029a97f0d74e2748319574ca6d97820a6f9fbfef",
-    "lastmod": "2026-09-27T09:14:25.626Z"
+    "hash": "d262b529fe0370ce6cf208ef9fa95171da2f2a23732c720059fb91867f8a00d9",
+    "lastmod": "2026-09-27T09:21:38.349Z"
   },
   "https://mtptoken.pages.dev/en/wallet/": {
-    "hash": "ab53d379ae6dfafe6111868fb8ed65e4a8b48569aeab0ba059261cb1e02d0c54",
-    "lastmod": "2026-09-27T09:14:25.627Z"
+    "hash": "c78fd7045436945d9964d968dbf7596b24480d8662e6db54392e6b0ab91e49ca",
+    "lastmod": "2026-09-27T09:21:38.350Z"
   },
   "https://mtptoken.pages.dev/es/confidentialite/": {
-    "hash": "94b70cd980e566744229945bbf4e4648cb0e701199953a409bfb59d0d0ec61bb",
-    "lastmod": "2026-09-27T09:14:25.628Z"
+    "hash": "7fb3620c9c9ba97d3bfd45d3fd17d7c5f1ada0a910c669b9ce98a5683a00b348",
+    "lastmod": "2026-09-27T09:21:38.351Z"
   },
   "https://mtptoken.pages.dev/es/documentation/": {
-    "hash": "7eea46ed2bbbab3fbc942d0d5a694f8cc2b0d5a25e80f5dd43c9a821c804699d",
-    "lastmod": "2026-09-27T09:14:25.629Z"
+    "hash": "e02bb2a2586bd780886f5235a35e783e3fc27a96551bf005a4167058bcbedc5d",
+    "lastmod": "2026-09-27T09:21:38.353Z"
   },
   "https://mtptoken.pages.dev/es/echanges/": {
-    "hash": "f1aa4af7ab25e3715a0bf25da902787cfdfc136b64124064edd4a59a2af10ad6",
-    "lastmod": "2026-09-27T09:14:25.630Z"
+    "hash": "b789937be83850211dcb3364e45d56f7ca4c4cba153fef3268f3ebfaf75c6a54",
+    "lastmod": "2026-09-27T09:21:38.354Z"
   },
   "https://mtptoken.pages.dev/es/": {
-    "hash": "0c12fd5b6b35a13965c970770179c70eb6f08061fef1edce974e292ff57c00b1",
-    "lastmod": "2026-09-27T09:14:25.631Z"
+    "hash": "6917e90684dcadbceb24dcb54c23f7cda3fdf44782c822662e58ca368af92ee1",
+    "lastmod": "2026-09-27T09:21:38.355Z"
   },
   "https://mtptoken.pages.dev/es/live/": {
-    "hash": "4e4a1df553aab1285d490b2f16ab98f58fa53fb77e04c190013415be287642e0",
-    "lastmod": "2026-09-27T09:14:25.632Z"
+    "hash": "15b49b590f52c061394b6d03ad977eb9ad35fdc77cfe4de86a38da4ef71c3f30",
+    "lastmod": "2026-09-27T09:21:38.356Z"
   },
   "https://mtptoken.pages.dev/es/wallet/": {
-    "hash": "122cd12691d9e11600d90e957f7330cd53507e2316c05af1dd8d5e7b522a4da1",
-    "lastmod": "2026-09-27T09:14:25.634Z"
+    "hash": "c3db831c0aae0cd4c9c3902e27a758c58834f2d9789135732a1a7823e959bf95",
+    "lastmod": "2026-09-27T09:21:38.358Z"
+  },
+  "https://mtptoken.pages.dev/frankenstein/": {
+    "hash": "b48032399b2e86107fc724624efdad2d10f8287630ae52e32a57fe812f6729bc",
+    "lastmod": "2026-09-27T09:22:44.435Z"
+  },
+  "https://mtptoken.pages.dev/ia/": {
+    "hash": "6a712b4baeb190d0814b8e2a47869e208c02cff645c98dc03c753c512d914b9f",
+    "lastmod": "2026-09-27T09:22:44.437Z"
   },
   "https://mtptoken.pages.dev/": {
-    "hash": "94bc87576baf00cef75fdbd9d5187aa2d9dfdc7e2d7e5b3ba80c0edc05d3e03f",
-    "lastmod": "2026-09-27T09:14:25.635Z"
+    "hash": "03c8a754913ad7fce9adf85271f55acf60f01e9d14425db9bbf1d6e64f95b45d",
+    "lastmod": "2026-09-27T09:21:38.362Z"
   },
   "https://mtptoken.pages.dev/informations/": {
-    "hash": "619fe40cb1c2f24a7cc4b790facec41f1a9ce95e91df51ee897e9804d9527f57",
-    "lastmod": "2026-09-27T09:14:25.636Z"
+    "hash": "a4041b4ac38bce8bf07d7d26ed40b74936dbcd2d6129dc53d510ed229b239166",
+    "lastmod": "2026-09-27T09:21:38.364Z"
   },
   "https://mtptoken.pages.dev/it/confidentialite/": {
-    "hash": "6f406863684a0429d608c1ebcb21153339817576389b968bef72ea15b58b321e",
-    "lastmod": "2026-09-27T09:14:25.637Z"
+    "hash": "fac6290f1fa9799a5907db603418ddc21a3a1fb7518a3560ab0d405dd348f849",
+    "lastmod": "2026-09-27T09:21:38.365Z"
   },
   "https://mtptoken.pages.dev/it/documentation/": {
-    "hash": "cbd49342e4961a7661db6eea63cc2b107bf161812ddf2f4b1a9536ff4ddc908a",
-    "lastmod": "2026-09-27T09:14:25.638Z"
+    "hash": "08ae9845bca1925827c2f7270b51ac4e8554f59e652d67f7fafca56e8cf55e01",
+    "lastmod": "2026-09-27T09:21:38.366Z"
   },
   "https://mtptoken.pages.dev/it/echanges/": {
-    "hash": "f802aa0c901b4ee963db3e07070d1653721e9a823f2af551e43a06c05c35d109",
-    "lastmod": "2026-09-27T09:14:25.639Z"
+    "hash": "662e491f35ae7ea801686ab7158325b74de1ebd1e812b4637e64a61d065e207a",
+    "lastmod": "2026-09-27T09:21:38.367Z"
   },
   "https://mtptoken.pages.dev/it/": {
-    "hash": "245698862f29bdc8ef2c5569ff9e4372318ee6844ca34054cf85661ae3eec693",
-    "lastmod": "2026-09-27T09:14:25.639Z"
+    "hash": "9f3a5a03712d5b0953cb5a62f2fa28be342ce1b6fb0626c8c49ccd002b83a970",
+    "lastmod": "2026-09-27T09:21:38.368Z"
   },
   "https://mtptoken.pages.dev/it/live/": {
-    "hash": "b84f2705e7f3bf7a00b1ccb2c1365e21e46f9513290ef881eb6486db3fefeb61",
-    "lastmod": "2026-09-27T09:14:25.640Z"
+    "hash": "299be24be2eb049aade43a3387a00ad47f761a25136bfe443b4dfb716568325c",
+    "lastmod": "2026-09-27T09:21:38.369Z"
   },
   "https://mtptoken.pages.dev/it/wallet/": {
-    "hash": "badc2c52f4ae49ab46fdd3c6101e2756a884f5aaa16a68e1e72407f172ba9a59",
-    "lastmod": "2026-09-27T09:14:25.642Z"
+    "hash": "42162bf0759817e4301a6ea2e070ec8bee8748f656f61fb1ab97b44595cc335c",
+    "lastmod": "2026-09-27T09:21:38.371Z"
   },
   "https://mtptoken.pages.dev/jeu/": {
-    "hash": "6b93d6b9422c21ee1a8d4b43dc19ea825f55c7d5af9a779a3c4039e78a9449c1",
-    "lastmod": "2026-09-27T09:14:25.643Z"
+    "hash": "2f2b7758fdbad6cf5462a5b11a014c3d994695d96389be6ef28e19fae97f6ef5",
+    "lastmod": "2026-09-27T09:21:38.373Z"
   },
   "https://mtptoken.pages.dev/live/": {
-    "hash": "835325b897097b611a395d8f5c282a64353fcdab7ecc0d8e7e3f24ae1aa945c4",
-    "lastmod": "2026-09-27T09:14:25.644Z"
+    "hash": "9ece91e98d345dcbbbef664c78195390544175b2b16e38b698a0d95e83cbf45a",
+    "lastmod": "2026-09-27T09:21:38.375Z"
   },
   "https://mtptoken.pages.dev/manipulations_ia/": {
-    "hash": "d71572b4fe04e7255c2c5e2f4e80b3061d960417c0a8f19e026a36f291940675",
-    "lastmod": "2026-09-27T09:14:25.645Z"
+    "hash": "4722f056c76e16e65fb864b3138a3310998945791d4e86c2729981c8bb24d86f",
+    "lastmod": "2026-09-27T09:21:38.376Z"
   },
   "https://mtptoken.pages.dev/manipulations_ia_en/": {
-    "hash": "6a370b0a720f09f6f7e03e885be392f1bafc654674a1a7d9a46d944cb0cbe33d",
-    "lastmod": "2026-09-27T09:14:25.646Z"
+    "hash": "976db3f6e6c224cc8de654d0129e2bc7c2a6b6fbc13c81cf1f063a6188b13043",
+    "lastmod": "2026-09-27T09:21:38.377Z"
   },
   "https://mtptoken.pages.dev/oc/confidentialite/": {
-    "hash": "abbef16d9c71e3eb96e2f2eebfb169ae917187504387a409c861d45480485922",
-    "lastmod": "2026-09-27T09:14:25.647Z"
+    "hash": "0b16af973abfa9bce4827c818b53b481005c65bbcb12f58f77876ecc16d68e19",
+    "lastmod": "2026-09-27T09:21:38.379Z"
   },
   "https://mtptoken.pages.dev/oc/documentation/": {
-    "hash": "2b4c19e7b83b70480c19feaa1627e19a15c819d6564e8371abbfdbd9403ef687",
-    "lastmod": "2026-09-27T09:14:25.648Z"
+    "hash": "93399a2da629612538a43982f34e01f2f9653e4657dd8711088b837a1d1ead3f",
+    "lastmod": "2026-09-27T09:21:38.383Z"
   },
   "https://mtptoken.pages.dev/oc/echanges/": {
-    "hash": "77b94806a14b75877c1c65058765cb39072691e532c68918ceee0c799d993989",
-    "lastmod": "2026-09-27T09:14:25.649Z"
+    "hash": "8fc86cea373fd8078debf5b19e548eba1dfc6cca2349d2479575a29a8acf7266",
+    "lastmod": "2026-09-27T09:21:38.384Z"
   },
   "https://mtptoken.pages.dev/oc/": {
-    "hash": "e95eaa1cac496ba970752bc94afd8b1602eec534daec5cd7990c9cf82166c617",
-    "lastmod": "2026-09-27T09:14:25.650Z"
+    "hash": "d2630c536874d64ddc250691230ea212c5b445acc403c1b35d766db954ed2f84",
+    "lastmod": "2026-09-27T09:21:38.385Z"
   },
   "https://mtptoken.pages.dev/oc/live/": {
-    "hash": "cb67b610ef7930203eb0c2ac369f2c56c110bda8834bf382087d282fa8df029e",
-    "lastmod": "2026-09-27T09:14:25.651Z"
+    "hash": "3e427ee43e2dac759701d6ae0daaa3722501c626600396b7dc49db3b8745fcf0",
+    "lastmod": "2026-09-27T09:21:38.386Z"
   },
   "https://mtptoken.pages.dev/oc/wallet/": {
-    "hash": "6ffbafb27172c497e008db440fd7b8ea1062df1623dcc8557d9d2273f1e2b06f",
-    "lastmod": "2026-09-27T09:14:25.653Z"
+    "hash": "aa072551c4058e46e2dd4fe44917fb39dcbea856254ab938bd0bd1e513659c59",
+    "lastmod": "2026-09-27T09:21:38.387Z"
   },
   "https://mtptoken.pages.dev/remerciements-openai/": {
-    "hash": "dfb973af17980ac56aa201e37130ead499f5099228a33322de1eceae3a7a0769",
-    "lastmod": "2026-09-27T09:14:25.654Z"
+    "hash": "9b337a426fffb9cd8aca6a34a865cc00117f6b4e7bccc467151732e4859a2400",
+    "lastmod": "2026-09-27T09:21:38.388Z"
   },
   "https://mtptoken.pages.dev/soutenir/": {
-    "hash": "5924c5480ee3b213d02078c4ddf2ee50c18dc76158dab8702f89402e4fbac144",
-    "lastmod": "2026-09-27T09:14:25.655Z"
+    "hash": "aac0f7206c5b5b26f2979d6b9553386076007a6a035166a28dd7b89b126cf0e3",
+    "lastmod": "2026-09-27T09:21:38.389Z"
   },
   "https://mtptoken.pages.dev/wallet/": {
-    "hash": "aede43a42fe3884cff2f12cf784d6b4525a8c3fd613fb0d92674a38e9ab4f73e",
-    "lastmod": "2026-09-27T09:14:25.656Z"
+    "hash": "dd8cb5d6a062bca9734859ffdf4570b9c8316306783a673e9b295250e1885a9e",
+    "lastmod": "2026-09-27T09:21:38.391Z"
   }
 }

@@ -1,0 +1,14 @@
+const fs=require('node:fs'),path=require('node:path'),http=require('node:http'),assert=require('node:assert/strict');
+const {chromium}=require('C:/Users/msoui/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+const root=path.join(__dirname,'site'),out=path.join(__dirname,'verification');fs.mkdirSync(out,{recursive:true});
+const server=http.createServer((req,res)=>{let file=path.join(root,new URL(req.url,'http://local').pathname);if(!file.startsWith(root+path.sep)){res.writeHead(403);return res.end()}try{if(fs.statSync(file).isDirectory())file=path.join(file,'index.html');res.setHeader('Content-Type',({'.html':'text/html','.css':'text/css','.js':'application/javascript','.png':'image/png','.svg':'image/svg+xml'})[path.extname(file)]||'application/octet-stream');res.end(fs.readFileSync(file))}catch{res.writeHead(404);res.end()}});
+(async()=>{await new Promise(r=>server.listen(19372,'127.0.0.1',r));const browser=await chromium.launch({channel:'msedge',headless:true});const base='http://127.0.0.1:19372',results=[];try{
+ for(const width of [390,1440]){const page=await browser.newPage({viewport:{width,height:900},reducedMotion:'reduce'});await page.route('https://**/*',r=>r.abort());
+ for(const route of ['/','/ia/','/frankenstein/','/manipulations_ia/','/remerciements-openai/']){await page.goto(base+route);await page.waitForTimeout(150);assert(await page.locator('.nav-ia').isVisible());assert.equal(await page.locator('h1').count(),1);assert(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth));const height=await page.evaluate(()=>document.documentElement.scrollHeight);results.push({width,route,height});await page.screenshot({path:path.join(out,'ia-'+(route==='/'?'home':route.split('/')[1])+'-'+width+'.png'),fullPage:true});
+ const header=await page.locator('header').boundingBox();for(const link of await page.locator('header .links a').all()){const box=await link.boundingBox();assert(box.y+box.height<=header.y+header.height+1,'Navigation must fit inside header');}
+ if(route==='/'){assert((await page.locator('.quick-ia').boundingBox()).y<900);assert(await page.locator('.compact-detail:not([open])').count()>0);await page.goto(base+'/#transparence');assert(await page.locator('#transparence').isVisible());await page.goto(base+'/');const summary=page.locator('.compact-detail>summary').first();await summary.focus();await page.keyboard.press('Enter');assert(await summary.evaluate(e=>e.parentElement.open));}
+ if(route==='/ia/'){await page.locator('.ia-feature').click();await page.waitForURL(base+'/frankenstein/');assert(await page.locator('h1').innerText().then(t=>t.includes('cerveaux')));}
+ }
+ await page.close();}
+ console.log(JSON.stringify(results,null,2));fs.writeFileSync(path.join(out,'ia-checks.json'),JSON.stringify(results,null,2));
+}finally{await browser.close();server.close()}})().catch(e=>{console.error(e);server.close();process.exitCode=1});

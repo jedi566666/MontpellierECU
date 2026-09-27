@@ -47,5 +47,6 @@ require('./creation-content.cjs')({fs,path,root,shell});
 require('./marketplace-studio.cjs')({fs,path,root});
 require('./contact-content.cjs')({fs,path,root});
 require('./experiments-content.cjs')({fs,path,root,shell});
+require('./ia-content.cjs')({fs,path,root,shell});
 require('./design-content.cjs')({fs,path,root});
 require('./seo-finalize.cjs')({fs,path,root,base});

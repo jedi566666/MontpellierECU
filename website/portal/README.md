@@ -31,3 +31,11 @@ Les mesures du carnet IA sont marquées non validées faute de protocole et de r
 - Après publication : 51 pages et 9 ressources en HTTP 200, contenu identique à la construction locale publiée.
 - Scripts de contrôle : `verify-design.cjs` (Playwright/Edge, chemin du runtime local à adapter sur une autre machine) et `verify-design-public.cjs https://mtptoken.pages.dev` (Node.js).
 - Les contrôles Wallet simulés ne prouvent pas la disponibilité des fournisseurs blockchain publics.
+
+## Navigation IA et lecture compacte
+
+La navigation principale propose désormais **IA**, et l’accueil un accès direct au laboratoire. `/ia/` présente les parcours ; `/frankenstein/` possède sa page dédiée. Les anciennes URLs du carnet restent disponibles.
+
+Les sections éditoriales longues sont repliables, utilisables au clavier ; les liens vers une ancre ouvrent la rubrique visée. Sans JavaScript, le contenu reste intégralement lisible. Wallet, Live et les formulaires restent accessibles directement. Les illustrations décoratives de l’accueil sont masquées sur mobile pour réduire le défilement.
+
+Contrôles : `node verify-design.cjs` (53 pages), `node verify-ia.cjs` (navigation, absence de débordement, rubriques au clavier, ancres et captures 390/1440 px).

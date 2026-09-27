@@ -6,7 +6,8 @@ module.exports=({fs,path,root})=>{
   if(entry.isDirectory())visit(file);
   else if(entry.name.endsWith('.html')){
    let html=fs.readFileSync(file,'utf8');
-   html=html.replace('</head>','<link rel="stylesheet" href="/atelier.css"><link rel="stylesheet" href="/page-transitions.css"><script src="/page-transitions.js"></script></head>');
+   html=html.replace('<link rel="stylesheet" href="/compact.css">','');
+   html=html.replace('</head>','<link rel="stylesheet" href="/atelier.css"><link rel="stylesheet" href="/page-transitions.css"><link rel="stylesheet" href="/compact.css"><script src="/page-transitions.js"></script></head>');
    html=html.replace(/(<body\b[^>]*>)/,'$1'+overlay);
    fs.writeFileSync(file,html);
   }
