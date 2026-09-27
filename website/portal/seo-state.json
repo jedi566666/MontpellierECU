@@ -36,8 +36,8 @@
     "lastmod": "2026-09-27T09:21:38.325Z"
   },
   "https://mtptoken.pages.dev/coulisses/": {
-    "hash": "f1d66c33a2bd6d97a05381e3ec544dd4e1c9dcb206991c4f9e2dcfa3567bff5a",
-    "lastmod": "2026-09-27T09:21:38.326Z"
+    "hash": "bf5d6f060d052b292e4fd885db8d8ba2275502da8d3da2ee7b5e3b34e5b4da24",
+    "lastmod": "2026-09-27T18:43:23.595Z"
   },
   "https://mtptoken.pages.dev/de/confidentialite/": {
     "hash": "840033358930439106a635471cf67d8eff0aa930bce88d29258d91d2aef864b6",
@@ -64,12 +64,16 @@
     "lastmod": "2026-09-27T09:21:38.337Z"
   },
   "https://mtptoken.pages.dev/documentation/": {
-    "hash": "84132df17cfbd9ff0ce346fa24f243cb4b8f83fe01c288b0bd9158430427cdc8",
-    "lastmod": "2026-09-27T09:21:38.339Z"
+    "hash": "fbf4237a4d4fdcbef3375cdecacfd7fb747adb3d9b3e63e9f1928a5388fd3748",
+    "lastmod": "2026-09-27T18:43:23.602Z"
   },
   "https://mtptoken.pages.dev/echanges/": {
     "hash": "0cb777f70dd8071644ac0c03efdef8f129d90f0c66d2a4399f7dcd62e733d12d",
     "lastmod": "2026-09-27T09:21:38.341Z"
+  },
+  "https://mtptoken.pages.dev/en/behind-the-ai-scenes/": {
+    "hash": "d6024228a769efa7c75db8007ede0463c5e6c25eed80e3a365aad7147ef4a5eb",
+    "lastmod": "2026-09-27T18:48:24.320Z"
   },
   "https://mtptoken.pages.dev/en/confidentialite/": {
     "hash": "4eecb7690b6a765c300a215b881e8eb7f14e5655aa18b558fea2bb3bda7b4936",
@@ -94,6 +98,10 @@
   "https://mtptoken.pages.dev/en/wallet/": {
     "hash": "c78fd7045436945d9964d968dbf7596b24480d8662e6db54392e6b0ab91e49ca",
     "lastmod": "2026-09-27T09:21:38.350Z"
+  },
+  "https://mtptoken.pages.dev/envers-du-decor-ia/": {
+    "hash": "89efa133e45073c57d8bdaaad71ef021437c028b14e55e642fada586f81206cf",
+    "lastmod": "2026-09-27T18:48:24.329Z"
   },
   "https://mtptoken.pages.dev/es/confidentialite/": {
     "hash": "7fb3620c9c9ba97d3bfd45d3fd17d7c5f1ada0a910c669b9ce98a5683a00b348",
@@ -120,16 +128,16 @@
     "lastmod": "2026-09-27T09:21:38.358Z"
   },
   "https://mtptoken.pages.dev/frankenstein/": {
-    "hash": "b48032399b2e86107fc724624efdad2d10f8287630ae52e32a57fe812f6729bc",
-    "lastmod": "2026-09-27T09:22:44.435Z"
+    "hash": "2703f70fa6c6c34d86350668ce0a3abc6bab322007c1cdc6500c2f57b727e76f",
+    "lastmod": "2026-09-27T18:43:23.616Z"
   },
   "https://mtptoken.pages.dev/ia/": {
-    "hash": "6a712b4baeb190d0814b8e2a47869e208c02cff645c98dc03c753c512d914b9f",
-    "lastmod": "2026-09-27T09:22:44.437Z"
+    "hash": "d8f9023de836618ecbb26ae50b39738c9d4bde2295b67f9557b166557852ddc7",
+    "lastmod": "2026-09-27T18:43:23.617Z"
   },
   "https://mtptoken.pages.dev/": {
-    "hash": "03c8a754913ad7fce9adf85271f55acf60f01e9d14425db9bbf1d6e64f95b45d",
-    "lastmod": "2026-09-27T09:21:38.362Z"
+    "hash": "f6f2c08dc6658fe7e7c3756cdc93d4cc63439c6401280709e48cdeaa02267a4d",
+    "lastmod": "2026-09-27T18:43:23.617Z"
   },
   "https://mtptoken.pages.dev/informations/": {
     "hash": "a4041b4ac38bce8bf07d7d26ed40b74936dbcd2d6129dc53d510ed229b239166",
@@ -204,8 +212,8 @@
     "lastmod": "2026-09-27T09:21:38.388Z"
   },
   "https://mtptoken.pages.dev/soutenir/": {
-    "hash": "aac0f7206c5b5b26f2979d6b9553386076007a6a035166a28dd7b89b126cf0e3",
-    "lastmod": "2026-09-27T09:21:38.389Z"
+    "hash": "d597f82f450953fb84c92d9d1624b3e26ef1bac1a425f88e733b94294cddb95d",
+    "lastmod": "2026-09-27T18:43:23.635Z"
   },
   "https://mtptoken.pages.dev/wallet/": {
     "hash": "dd8cb5d6a062bca9734859ffdf4570b9c8316306783a673e9b295250e1885a9e",

@@ -39,3 +39,9 @@ La navigation principale propose désormais **IA**, et l’accueil un accès dir
 Les sections éditoriales longues sont repliables, utilisables au clavier ; les liens vers une ancre ouvrent la rubrique visée. Sans JavaScript, le contenu reste intégralement lisible. Wallet, Live et les formulaires restent accessibles directement. Les illustrations décoratives de l’accueil sont masquées sur mobile pour réduire le défilement.
 
 Contrôles : `node verify-design.cjs` (53 pages), `node verify-ia.cjs` (navigation, absence de débordement, rubriques au clavier, ancres et captures 390/1440 px).
+
+## L’envers du décor IA — 27 septembre 2026
+
+Nouvelle rubrique `/envers-du-decor-ia/`, édition anglaise `/en/behind-the-ai-scenes/`, 19 chapitres, schémas, vidéo Alpha et souvenir de l’atelier. Les PDF français et anglais sont disponibles dans `/assets/behind-scenes/fr.pdf` et `/assets/behind-scenes/en.pdf`, avec le logo MTP en filigrane sur chaque page. Leur texte est également publié dans `docs/` sur GitHub.
+
+Source éditoriale commune : `behind-scenes-data.cjs`. Rendu HTML et Markdown : `behind-scenes-content.cjs`. Voir [la procédure de reproduction bilingue](../../docs/REPRODUIRE-LE-DOSSIER-IA.md). Les originaux métiers du jeu et de la BD ne sont pas modifiés. La capture privée du bêtisier n’est pas publiée.

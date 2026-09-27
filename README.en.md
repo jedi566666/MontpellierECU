@@ -132,3 +132,10 @@ Thanks to OpenAI and the communities behind the open tools used. These acknowled
 - [Frankenstein : reconstitution et limites](frankenstein/README-corrige.md)
 - [Sources du portail et procédure de publication](website/portal/README.md)
 - [Merci OpenAI](https://mtptoken.pages.dev/remerciements-openai/)
+# Behind the AI scenes · New French / English edition
+
+An illustrated account of building the Godot game, five graphic novel volumes, Monia and the MTP portal: methods, architecture, achievements and the “à” incident outtake.
+
+- [English website edition](https://mtptoken.pages.dev/en/behind-the-ai-scenes/) · [French edition](https://mtptoken.pages.dev/envers-du-decor-ia/)
+- [English source dossier](docs/BEHIND-THE-AI-SCENES-EN.md) · [French source dossier](docs/ENVERS-DU-DECOR-IA-FR.md)
+- [English PDF](https://mtptoken.pages.dev/assets/behind-scenes/en.pdf) · [French PDF](https://mtptoken.pages.dev/assets/behind-scenes/fr.pdf)

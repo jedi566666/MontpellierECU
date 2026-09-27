@@ -147,3 +147,10 @@ Merci à OpenAI et aux communautés des outils libres utilisés. Ces remerciemen
 - [Frankenstein : reconstitution et limites](frankenstein/README-corrige.md)
 - [Sources du portail et procédure de publication](website/portal/README.md)
 - [Merci OpenAI](https://mtptoken.pages.dev/remerciements-openai/)
+# L’envers du décor IA · Nouvelle édition FR / EN
+
+Le récit illustré de la fabrication du jeu Godot, des cinq tomes de BD, de Monia et du portail MTP : méthode, architecture, réussites et bêtisier du « à ».
+
+- [Lire en français](https://mtptoken.pages.dev/envers-du-decor-ia/) · [Read in English](https://mtptoken.pages.dev/en/behind-the-ai-scenes/)
+- [Dossier Markdown français](docs/ENVERS-DU-DECOR-IA-FR.md) · [English Markdown edition](docs/BEHIND-THE-AI-SCENES-EN.md)
+- [PDF français](https://mtptoken.pages.dev/assets/behind-scenes/fr.pdf) · [English PDF](https://mtptoken.pages.dev/assets/behind-scenes/en.pdf)
