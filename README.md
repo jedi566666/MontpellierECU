@@ -1,5 +1,24 @@
 # MTP ECU — Documentation & Reconstruction Web
 
+## 🤖 Manipulations IA
+- [Expérimentations techniques](docs/manipulations_ia.md) – Architecture Frankenstein, modèles AWS Bedrock, tool calling.
+- [Benchmarks comparatifs](docs/benchmarks_models.md)
+
+# MTP ECU — Documentation & Reconstruction Web
+
+## 🤖 Manipulations IA : Expérimentations techniques
+
+- [Architecture Frankenstein et modèles AWS Bedrock](docs/MANIPULATIONS_IA.md) – Intégration GLM-5/Codex Windows, tool calling, et benchmarks.
+- [Comparatif des modèles IA](docs/benchmarks_models.md) – Latence, précision, et compatibilité.
+
+# MTP ECU — Documentation & Reconstruction Web
+
+## 🤖 Manipulations IA
+- [Expérimentations techniques](docs/manipulations_ia.md) – Architecture Frankenstein, modèles AWS Bedrock, tool calling.
+- [Benchmarks comparatifs](docs/benchmarks_models.md)
+
+# MTP ECU — Documentation & Reconstruction Web
+
 Ce dépôt contient la documentation du projet MTP (Monnaie Territoriale de Montpellier), l''historique de l''expérience Frankenstein/GLM-5, et la reconstruction du site web statique.
 
 ## Structure
@@ -58,3 +77,5 @@ Hébergement statique prévu sur le plan gratuit Cloudflare Pages.
 ---
 
 *Repo initialisé le 2026-09-26.*
+
+

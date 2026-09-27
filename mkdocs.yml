@@ -1,0 +1,15 @@
+site_name: MTP ECU
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+
+nav:
+  - Home: index.md
+  - Manipulations IA (FR): docs/manipulations_ia.md
+  - AI Manipulations (EN): docs/manipulations_ia_en.md
+  - Benchmarks (FR): docs/benchmarks_models.md
+  - Benchmarks (EN): docs/benchmarks_models_en.md
+  - Frankenstein: frankenstein/README.md
