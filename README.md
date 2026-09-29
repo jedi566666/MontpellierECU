@@ -8,7 +8,7 @@ MTP est un crypto-actif sur Base, né à Montpellier, dont nous construisons pro
 
 **Montpellier est son origine, pas sa frontière.** L’ouverture mondiale est notre ambition ; elle ne signifie pas que MTP est accepté partout aujourd’hui.
 
-[Site](https://mtptoken.pages.dev/) · [Contrat Base](https://basescan.org/token/0x50626097a780881d3dFf1Ff97579e6dAF965366B) · [MTP Live](https://mtptoken.pages.dev/live/) · [MTP App](https://github.com/jedi566666/MontpellierECU/releases) · [Documentation](docs/README.md) · [Argent 0](docs/philosophy/README.md) · [English](README.en.md)
+[Site](https://mtptoken.pages.dev/) · [Contrat Base](https://basescan.org/token/0x50626097a780881d3dFf1Ff97579e6dAF965366B) · [MTP Live](https://mtptoken.pages.dev/live/) · [MTP App](https://github.com/jedi566666/MontpellierECU/releases) · [Documentation](docs/README.md) · [MATRIX Pro · guide FR/EN](docs/MATRIX-PRO-FR.md) · [Argent 0](docs/philosophy/README.md) · [English](README.en.md)
 
 ## Comprendre en une minute
 

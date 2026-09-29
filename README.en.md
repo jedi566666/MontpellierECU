@@ -8,7 +8,7 @@ MTP is a crypto asset on Base, originating in Montpellier. We are progressively 
 
 **Montpellier is its origin, not its boundary.** Worldwide reach is an ambition, not a claim of universal acceptance today.
 
-[Français](README.md) · [Website](https://mtptoken.pages.dev/) · [Base contract](https://basescan.org/token/0x50626097a780881d3dFf1Ff97579e6dAF965366B) · [MTP Live](https://mtptoken.pages.dev/live/) · [MTP App](https://github.com/jedi566666/MontpellierECU/releases) · [Documentation](docs/README.md)
+[Français](README.md) · [Website](https://mtptoken.pages.dev/) · [Base contract](https://basescan.org/token/0x50626097a780881d3dFf1Ff97579e6dAF965366B) · [MTP Live](https://mtptoken.pages.dev/live/) · [MTP App](https://github.com/jedi566666/MontpellierECU/releases) · [Documentation](docs/README.md) · [MATRIX Pro user guide](docs/MATRIX-PRO-EN.md)
 
 ## Understand MTP in one minute
 - An ERC-20 token on Base with a fixed supply of 21 million MTP.

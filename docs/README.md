@@ -6,6 +6,7 @@ Comprendre, utiliser et vérifier MTP. État documentaire : 25 septembre 2026.
 - [Monia](app/architecture.md) et [Wallet en lecture seule](app/wallet.md)
 - [Marketplace](marketplace/README.md), [mode commerçant envisagé](merchant/README.md), [MTP Live](mtp-live/README.md)
 - [Sécurité](security/README.md) et [roadmap](roadmap/README.md)
+- [MATRIX Pro — guide français](MATRIX-PRO-FR.md) et [English user guide](MATRIX-PRO-EN.md) · [section IA du site](https://mtptoken.pages.dev/ia/) · [PDF FR](https://mtptoken.pages.dev/assets/matrix-pro/fr.pdf) · [PDF EN](https://mtptoken.pages.dev/assets/matrix-pro/en.pdf)
 
 Les documents historiques restent disponibles. En cas de divergence, les propriétés du contrat sont établies par les [preuves datées](preuves-contrat-2026-09-22/RAPPORT.md), les fonctions du site par [son état documenté](ETAT-DU-SITE.md). Un ancien deck ou visuel n'est pas une promesse de fonctionnalité actuelle.
 
