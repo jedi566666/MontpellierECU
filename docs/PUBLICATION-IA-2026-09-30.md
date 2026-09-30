@@ -22,3 +22,10 @@ Le dossier décrit un instantané inspecté, pas une nouvelle livraison du jeu. 
 The dossier describes an inspected snapshot, not a new game release. V1 remains the approved version; the cited 44 checks come from its release registry and were not rerun for this publication. No paid inference, purchases or urban dataset rebuilds were performed.
 
 Routes : [FR](https://mtptoken.pages.dev/ia/technique/) · [EN](https://mtptoken.pages.dev/en/ai/engineering/) · [Archives FR](https://mtptoken.pages.dev/ia/archives/) · [Archives EN](https://mtptoken.pages.dev/en/ai/archives/).
+
+## Publication vérifiée / Verified publication
+
+- GitHub `main` : contenu publié dans `b6e8c17aad626fc885fa216bbbe0c992afdf3fed`; branche distante et accès public aux documents vérifiés.
+- Cloudflare Pages : [déploiement 0a1a3569](https://0a1a3569.mtptoken.pages.dev/ia/technique/), production `mtptoken.pages.dev`.
+- 32 ressources publiques téléchargées et vérifiées, dont les 15 PDF de la bibliothèque : HTTP 200 et SHA-256 identiques aux fichiers locaux construits.
+- Deux envois ont échoué sur des coupures réseau; l’envoi suivant avec préférence IPv4 a abouti. Aucun changement de contenu nécessaire.
