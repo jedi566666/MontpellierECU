@@ -1,0 +1,102 @@
+{
+  "date": "2026-09-30",
+  "scope": "Hashes of inspected local sources. Private source files are not reproduced; this does not certify behaviour.",
+  "files": [
+    {
+      "component": "MATRIX",
+      "file": "matrix_pro.py",
+      "bytes": 93177,
+      "sha256": "55d6a96a2241327f6c9499077f5702a904b9c5e61f177e186f048dc2b6a83924"
+    },
+    {
+      "component": "MATRIX",
+      "file": "aws_chat.py",
+      "bytes": 25932,
+      "sha256": "7d09a04c2e78992ba7123ac05e3a99ce8b80a96ed973a13f6b904d43f51e6026"
+    },
+    {
+      "component": "MATRIX",
+      "file": "mission_chain.py",
+      "bytes": 3926,
+      "sha256": "667d47932d2a4b69aab87eaa3feef0d64d4d06a7ea40478380a1e36d77ef3ec8"
+    },
+    {
+      "component": "MATRIX",
+      "file": "file_tools.py",
+      "bytes": 17613,
+      "sha256": "d5d5bb1e105d1fe980c53c31f5f7838eb1cafe8c8204024f18d16e279751152b"
+    },
+    {
+      "component": "MATRIX",
+      "file": "loop_guard.py",
+      "bytes": 1624,
+      "sha256": "ac4057a2b0e878eeda7c1d71c2726cca965765941bbf313b96f84901b74d94b0"
+    },
+    {
+      "component": "MATRIX",
+      "file": "extra_models.py",
+      "bytes": 2213,
+      "sha256": "8c1a81298e313f64e6a3744ffc405bf3435461df879fc01deeab83dd090ae42c"
+    },
+    {
+      "component": "MATRIX",
+      "file": "godot_gate.py",
+      "bytes": 4908,
+      "sha256": "d338b57ed3b64b8adca69db36df3cd2f9627ab30aa9d4a2a45d287fa6afbc2f1"
+    },
+    {
+      "component": "MATRIX",
+      "file": "godot_authorized_worker.py",
+      "bytes": 4419,
+      "sha256": "c16a1c38ee2f448fea75b929e75e65b50bbaeb143994d2a66b2b33c2ce3b4c91"
+    },
+    {
+      "component": "MATRIX",
+      "file": "godot-access.json",
+      "bytes": 387,
+      "sha256": "eaa2ab2063fbb6132edc4d1bb847d108d430fb0fae147f2b67d9e4e6c8c67b5b"
+    },
+    {
+      "component": "GAME",
+      "file": "project.godot",
+      "bytes": 1018,
+      "sha256": "b18e94ea035b2e2efca581350bcf8245a5ea81230e9cb3303117342721c9c78b"
+    },
+    {
+      "component": "GAME",
+      "file": "world3d/official_buildings.gd",
+      "bytes": 3302,
+      "sha256": "c70256090c7e237966a1559767ec97243969efb5f35ad49bd986caa40b6fc35d"
+    },
+    {
+      "component": "GAME",
+      "file": "world3d/prototype_sector_stream_manager.gd",
+      "bytes": 10070,
+      "sha256": "f2966b68ea308b574ae579e4a0ec27e5e14567d0cb32ef52478568d48bfc1fc2"
+    },
+    {
+      "component": "GAME",
+      "file": "world3d/map_sector.gd",
+      "bytes": 9335,
+      "sha256": "100bbbe072714a964a766c0e1f489cf77759f74bef9aed4c6728a4145bbe5cf5"
+    },
+    {
+      "component": "GAME",
+      "file": "world3d/data/official/manifest.json",
+      "bytes": 412893,
+      "sha256": "890c31675d23726a37dab1e989ab734b147db3f95d3f09061a091f83ca5d4bdc"
+    },
+    {
+      "component": "RELEASE",
+      "file": "VERSION_COURANTE.json",
+      "bytes": 1875,
+      "sha256": "8374a9425fca23dbe29d6e04e8ad3ddb4acf16e890d11e9db0159a9bd41b0ea4"
+    },
+    {
+      "component": "RELEASE",
+      "file": "ETAT_PROJET.md",
+      "bytes": 32962,
+      "sha256": "53f21c78a285caba18ab0d24622405fec887772f95221c891631bbf5903d3358"
+    }
+  ]
+}

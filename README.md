@@ -10,6 +10,12 @@ MTP est un crypto-actif sur Base, né à Montpellier, dont nous construisons pro
 
 [Site](https://mtptoken.pages.dev/) · [Contrat Base](https://basescan.org/token/0x50626097a780881d3dFf1Ff97579e6dAF965366B) · [MTP Live](https://mtptoken.pages.dev/live/) · [MTP App](https://github.com/jedi566666/MontpellierECU/releases) · [Documentation](docs/README.md) · [MATRIX Pro · guide FR/EN](docs/MATRIX-PRO-FR.md) · [Argent 0](docs/philosophy/README.md) · [English](README.en.md)
 
+## Atelier IA · édition technique du 30 septembre 2026
+
+[Dossier technique français](docs/ENGINEERING-FR.md) · [English engineering dossier](docs/ENGINEERING-EN.md) · [Bibliothèque des PDF / PDF library](docs/IA-ARCHIVES.md)
+
+18 chapitres sur le jeu Godot, MATRIX, les passerelles AWS et les preuves de production. Deux PDF illustrés de 22 pages, captures réelles encadrées d’or et neuf archives historiques (111 pages). [Lire sur le site](https://mtptoken.pages.dev/ia/technique/).
+
 ## Comprendre en une minute
 
 - **Ce que c’est :** un token ERC-20 sur Base, avec une offre fixe de 21 millions de MTP.

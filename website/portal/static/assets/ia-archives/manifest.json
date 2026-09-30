@@ -1,0 +1,172 @@
+{
+  "date": "2026-09-30",
+  "status": "historical archives; not current implementation specifications",
+  "documents": [
+    {
+      "id": 1,
+      "title": {
+        "fr": "Archives Deluxe — De l’écran à l’abandon",
+        "en": "Archives Deluxe — De l’écran à l’abandon"
+      },
+      "original_name": "Archives_Deluxe_De_l_ecran_a_l_abandon_20p.pdf",
+      "file": "archives-deluxe.pdf",
+      "pages": 20,
+      "bytes": 12257629,
+      "sha256": "ebc9467f99f4574b17efec7fc8550f78b8b45774e23f4bfd0a116fe776377ab6",
+      "original_sha256": "ebc9467f99f4574b17efec7fc8550f78b8b45774e23f4bfd0a116fe776377ab6",
+      "redacted": false,
+      "redactions": [],
+      "language": "fr"
+    },
+    {
+      "id": 2,
+      "title": {
+        "fr": "BETA 3 — Ressources et pistes visuelles Godot",
+        "en": "BETA 3 — Godot resources and visual ideas"
+      },
+      "original_name": "BETA 3 CLAQUE VISUELLE.pdf",
+      "file": "beta3-ressources-godot.pdf",
+      "pages": 16,
+      "bytes": 5737146,
+      "sha256": "23b458b521f2187508da1e8e0dada54746228260144c4d3dbdafd88535b8e1bd",
+      "original_sha256": "23b458b521f2187508da1e8e0dada54746228260144c4d3dbdafd88535b8e1bd",
+      "redacted": false,
+      "redactions": [],
+      "language": "fr"
+    },
+    {
+      "id": 3,
+      "title": {
+        "fr": "Frankenstein — Embauche I : Kimi",
+        "en": "Frankenstein — Recruitment I: Kimi"
+      },
+      "original_name": "embauche1.pdf",
+      "file": "embauche-kimi.pdf",
+      "pages": 5,
+      "bytes": 802477,
+      "sha256": "e30dd8533ff5d665dae8361c0ea8da6d9844ff7a692e11c74c74a03da6900f62",
+      "original_sha256": "edebe948893eb3b0742e7022f4c2a342ae494e9408b5478ed7d576dd4c653ede",
+      "redacted": true,
+      "redactions": [
+        {
+          "page": 3,
+          "kind": "local authentication value"
+        }
+      ],
+      "language": "fr"
+    },
+    {
+      "id": 4,
+      "title": {
+        "fr": "Frankenstein — Embauche II : Mistral",
+        "en": "Frankenstein — Recruitment II: Mistral"
+      },
+      "original_name": "embauche2_mistral_codex_windows.pdf",
+      "file": "embauche-mistral.pdf",
+      "pages": 5,
+      "bytes": 384936,
+      "sha256": "93cebe5bb3d3eb8b55e85837798f6fa443f70557541b0f4c811f996a001feaed",
+      "original_sha256": "93cebe5bb3d3eb8b55e85837798f6fa443f70557541b0f4c811f996a001feaed",
+      "redacted": false,
+      "redactions": [],
+      "language": "fr"
+    },
+    {
+      "id": 5,
+      "title": {
+        "fr": "Frankenstein Premium — GPT-OSS 120B",
+        "en": "Frankenstein Premium — GPT-OSS 120B"
+      },
+      "original_name": "FRANKENSTEIN_Premium_Codex_AWS_GPTOSS120B.pdf",
+      "file": "frankenstein-gptoss.pdf",
+      "pages": 9,
+      "bytes": 2108550,
+      "sha256": "5220fe09c6a73d5dd4f4c521c60f20948e8ada44af5c362e67f40bbf1dc233f9",
+      "original_sha256": "5220fe09c6a73d5dd4f4c521c60f20948e8ada44af5c362e67f40bbf1dc233f9",
+      "redacted": false,
+      "redactions": [],
+      "language": "fr"
+    },
+    {
+      "id": 6,
+      "title": {
+        "fr": "GLM-5 — Historique illustré des bridges",
+        "en": "GLM-5 — Illustrated bridge history"
+      },
+      "original_name": "GLM5_Codex_Windows_Frankenstein_Historique_ILLUSTRE_26-09-2026 (1).pdf",
+      "file": "glm5-historique.pdf",
+      "pages": 6,
+      "bytes": 9160072,
+      "sha256": "8228b8828a1ec309087a4ee30c12e4354e756c59be805149d63ce66e4d59983a",
+      "original_sha256": "8228b8828a1ec309087a4ee30c12e4354e756c59be805149d63ce66e4d59983a",
+      "redacted": false,
+      "redactions": [],
+      "language": "fr"
+    },
+    {
+      "id": 7,
+      "title": {
+        "fr": "Ma vie dans la MATRIX — Collector",
+        "en": "My life in MATRIX — Collector"
+      },
+      "original_name": "Ma_vie_dans_la_MATRIX_Edition_Collector.pdf",
+      "file": "ma-vie-matrix.pdf",
+      "pages": 14,
+      "bytes": 14796322,
+      "sha256": "557ac6c42ceae647f2f5d8d9cbf840ebbfcb84da536e502eb63059ff1558abfa",
+      "original_sha256": "ae2cfdf2d07d1b79fbc5a4491a6f88b0e5773578bb73e2923ba073c3ff4d3faf",
+      "redacted": true,
+      "redactions": [
+        {
+          "page": 1,
+          "kind": "account identifier in historical screenshot"
+        },
+        {
+          "page": 3,
+          "kind": "account identifier in historical screenshot"
+        },
+        {
+          "page": 4,
+          "kind": "account identifier in historical screenshot"
+        },
+        {
+          "page": 4,
+          "kind": "account identifier in historical screenshot"
+        }
+      ],
+      "language": "fr"
+    },
+    {
+      "id": 8,
+      "title": {
+        "fr": "MATRIX Collector Deluxe — 27 septembre",
+        "en": "MATRIX Collector Deluxe — 27 September"
+      },
+      "original_name": "MATRIX_COLLECTOR_DELUXE_20P_2026-09-27.pdf",
+      "file": "matrix-collector-20p.pdf",
+      "pages": 20,
+      "bytes": 8314241,
+      "sha256": "f2193ec8d520649a4120bc71e012248081bc8a6ba23e0ecec600ece4f47a34f1",
+      "original_sha256": "f2193ec8d520649a4120bc71e012248081bc8a6ba23e0ecec600ece4f47a34f1",
+      "redacted": false,
+      "redactions": [],
+      "language": "fr"
+    },
+    {
+      "id": 9,
+      "title": {
+        "fr": "MATRIX Deluxe Collector — FR / EN",
+        "en": "MATRIX Deluxe Collector — FR / EN"
+      },
+      "original_name": "MATRIX_DELUXE_COLLECTOR_FR_EN_2026.pdf",
+      "file": "matrix-deluxe-fr-en.pdf",
+      "pages": 16,
+      "bytes": 6051024,
+      "sha256": "8fd80e37203bff2021aa13b58d184375697cd38dee38954c789fe8aa22e8fb9b",
+      "original_sha256": "8fd80e37203bff2021aa13b58d184375697cd38dee38954c789fe8aa22e8fb9b",
+      "redacted": false,
+      "redactions": [],
+      "language": "fr-en"
+    }
+  ]
+}

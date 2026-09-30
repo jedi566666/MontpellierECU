@@ -2,6 +2,10 @@
 
 # MTP — Montpellier ECU
 
+[New engineering dossier](docs/ENGINEERING-EN.md) · [French edition](docs/ENGINEERING-FR.md) · [PDF archive library](docs/IA-ARCHIVES.md)
+
+Godot, MATRIX and AWS: 18 technical chapters, two illustrated 22-page PDFs, real screenshots in gold frames and nine historical archives. [Read online](https://mtptoken.pages.dev/en/ai/engineering/).
+
 **Born in Occitania, intended for use around the world.**
 
 MTP is a crypto asset on Base, originating in Montpellier. We are progressively building practical uses around digital tools, voluntary exchanges and creative work.

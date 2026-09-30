@@ -1,0 +1,88 @@
+{
+  "date": "2026-09-30",
+  "scope": "Local configuration snapshot. Not an official provider availability catalogue. No new inference performed.",
+  "routes": [
+    {
+      "alias": "aws-extra-anthropic-claude-sonnet-4-6",
+      "name": "Claude Sonnet 4.6",
+      "target": "bedrock/us.anthropic.claude-sonnet-4-6",
+      "region": "us-east-1",
+      "invocation_tested": true,
+      "last_test": "2026-09-28",
+      "test_scope": "short text completion; no tools or files"
+    },
+    {
+      "alias": "aws-extra-anthropic-claude-haiku-4-5-20251001-v1-0",
+      "name": "Claude Haiku 4.5",
+      "target": "bedrock/us.anthropic.claude-haiku-4-5-20251001-v1:0",
+      "region": "us-east-1",
+      "invocation_tested": true,
+      "last_test": "2026-09-28",
+      "test_scope": "short text completion; no tools or files"
+    },
+    {
+      "alias": "aws-extra-amazon-nova-2-lite-v1-0",
+      "name": "Nova 2 Lite",
+      "target": "bedrock/us.amazon.nova-2-lite-v1:0",
+      "region": "us-east-1",
+      "invocation_tested": true,
+      "last_test": "2026-09-28",
+      "test_scope": "short text completion; no tools or files"
+    },
+    {
+      "alias": "aws-extra-zai-glm-4-7",
+      "name": "GLM 4.7",
+      "target": "bedrock/zai.glm-4.7",
+      "region": "us-east-1",
+      "invocation_tested": true,
+      "last_test": "2026-09-28",
+      "test_scope": "short text completion; no tools or files"
+    },
+    {
+      "alias": "aws-extra-deepseek-v3-2",
+      "name": "DeepSeek V3.2",
+      "target": "bedrock/deepseek.v3.2",
+      "region": "us-east-1",
+      "invocation_tested": true,
+      "last_test": "2026-09-28",
+      "test_scope": "short text completion; no tools or files"
+    },
+    {
+      "alias": "aws-extra-mistral-devstral-2-123b",
+      "name": "Devstral 2 123B",
+      "target": "bedrock/mistral.devstral-2-123b",
+      "region": "us-east-1",
+      "invocation_tested": true,
+      "last_test": "2026-09-28",
+      "test_scope": "short text completion; no tools or files"
+    },
+    {
+      "alias": "aws-extra-nvidia-nemotron-super-3-120b",
+      "name": "NVIDIA Nemotron 3 Super 120B A12B",
+      "target": "bedrock/nvidia.nemotron-super-3-120b",
+      "region": "us-east-1",
+      "invocation_tested": true,
+      "last_test": "2026-09-28",
+      "test_scope": "short text completion; no tools or files"
+    },
+    {
+      "alias": "aws-extra-qwen-qwen3-next-80b-a3b",
+      "name": "Qwen3 Next 80B A3B",
+      "target": "bedrock/qwen.qwen3-next-80b-a3b",
+      "region": "us-east-1",
+      "invocation_tested": true,
+      "last_test": "2026-09-28",
+      "test_scope": "short text completion; no tools or files"
+    },
+    {
+      "alias": "aws-extra-openai-gpt-6-astra",
+      "name": "GPT-6 Astra",
+      "target": "bedrock/us.openai.gpt-6-astra",
+      "region": "us-east-1",
+      "invocation_tested": false,
+      "last_test": "2026-09-28",
+      "test_scope": "short text completion; no tools or files",
+      "availability": "access_denied_403"
+    }
+  ]
+}

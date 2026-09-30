@@ -64,12 +64,20 @@
     "lastmod": "2026-09-27T09:21:38.337Z"
   },
   "https://mtptoken.pages.dev/documentation/": {
-    "hash": "fbf4237a4d4fdcbef3375cdecacfd7fb747adb3d9b3e63e9f1928a5388fd3748",
-    "lastmod": "2026-09-27T18:43:23.602Z"
+    "hash": "7ed629d3fe2bd1824afd8bc24031f8c01c6a4395d08c4216c717fd2806670201",
+    "lastmod": "2026-09-30T17:00:50.984Z"
   },
   "https://mtptoken.pages.dev/echanges/": {
     "hash": "0cb777f70dd8071644ac0c03efdef8f129d90f0c66d2a4399f7dcd62e733d12d",
     "lastmod": "2026-09-27T09:21:38.341Z"
+  },
+  "https://mtptoken.pages.dev/en/ai/archives/": {
+    "hash": "955b3f8011a36a0c8a55d19c9b05d1dbb472c2c8c7b0308edbc396407d39bb34",
+    "lastmod": "2026-09-30T17:00:50.987Z"
+  },
+  "https://mtptoken.pages.dev/en/ai/engineering/": {
+    "hash": "3fc2671e200c8ef16f6c145266c68d51ac96f203ea3eb6383ac53e93ef9b733b",
+    "lastmod": "2026-09-30T17:00:50.988Z"
   },
   "https://mtptoken.pages.dev/en/behind-the-ai-scenes/": {
     "hash": "d6024228a769efa7c75db8007ede0463c5e6c25eed80e3a365aad7147ef4a5eb",
@@ -94,6 +102,10 @@
   "https://mtptoken.pages.dev/en/live/": {
     "hash": "d262b529fe0370ce6cf208ef9fa95171da2f2a23732c720059fb91867f8a00d9",
     "lastmod": "2026-09-27T09:21:38.349Z"
+  },
+  "https://mtptoken.pages.dev/en/matrix-pro/": {
+    "hash": "e5641822bba50a24a55fa0b94ff457b13268ed5f02e73b720f61c6c0a24eb151",
+    "lastmod": "2026-09-30T17:00:50.995Z"
   },
   "https://mtptoken.pages.dev/en/wallet/": {
     "hash": "c78fd7045436945d9964d968dbf7596b24480d8662e6db54392e6b0ab91e49ca",
@@ -128,16 +140,24 @@
     "lastmod": "2026-09-27T09:21:38.358Z"
   },
   "https://mtptoken.pages.dev/frankenstein/": {
-    "hash": "2703f70fa6c6c34d86350668ce0a3abc6bab322007c1cdc6500c2f57b727e76f",
-    "lastmod": "2026-09-27T18:43:23.616Z"
+    "hash": "dfbff3a45ed18cfd278533720f94c83c3dcb81a099eb275c424ff7570650dde9",
+    "lastmod": "2026-09-30T17:00:51.003Z"
+  },
+  "https://mtptoken.pages.dev/ia/archives/": {
+    "hash": "beefa9eabcd0f1b517b2a0b9d62fa6d4ea1c6eb5ee16ae071751627ce3e3679e",
+    "lastmod": "2026-09-30T17:00:51.004Z"
   },
   "https://mtptoken.pages.dev/ia/": {
-    "hash": "d8f9023de836618ecbb26ae50b39738c9d4bde2295b67f9557b166557852ddc7",
-    "lastmod": "2026-09-27T18:43:23.617Z"
+    "hash": "a408d8ee235d6b48ac24d0f3f06862480e66e2b96b5d7bce05641cc90078fc19",
+    "lastmod": "2026-09-30T17:00:51.005Z"
+  },
+  "https://mtptoken.pages.dev/ia/technique/": {
+    "hash": "d9ef345ce0118f03b72e72de3fd0034c0bc7f1c4dfc75fe695e06b75a18e1307",
+    "lastmod": "2026-09-30T17:00:51.006Z"
   },
   "https://mtptoken.pages.dev/": {
-    "hash": "f6f2c08dc6658fe7e7c3756cdc93d4cc63439c6401280709e48cdeaa02267a4d",
-    "lastmod": "2026-09-27T18:43:23.617Z"
+    "hash": "b3a2373a045e6ce4fff6604c818a813565aa0802b561d7375877a66e52caea12",
+    "lastmod": "2026-09-30T17:00:51.007Z"
   },
   "https://mtptoken.pages.dev/informations/": {
     "hash": "a4041b4ac38bce8bf07d7d26ed40b74936dbcd2d6129dc53d510ed229b239166",
@@ -182,6 +202,10 @@
   "https://mtptoken.pages.dev/manipulations_ia_en/": {
     "hash": "976db3f6e6c224cc8de654d0129e2bc7c2a6b6fbc13c81cf1f063a6188b13043",
     "lastmod": "2026-09-27T09:21:38.377Z"
+  },
+  "https://mtptoken.pages.dev/matrix-pro/": {
+    "hash": "d4414bac6974e95944ee1829d7a5a5e2c4971d11e1e45dfdef002eb562570ecb",
+    "lastmod": "2026-09-30T17:00:51.017Z"
   },
   "https://mtptoken.pages.dev/oc/confidentialite/": {
     "hash": "0b16af973abfa9bce4827c818b53b481005c65bbcb12f58f77876ecc16d68e19",

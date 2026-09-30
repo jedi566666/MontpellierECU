@@ -45,3 +45,16 @@ Contrôles : `node verify-design.cjs` (53 pages), `node verify-ia.cjs` (navigati
 Nouvelle rubrique `/envers-du-decor-ia/`, édition anglaise `/en/behind-the-ai-scenes/`, 19 chapitres, schémas, vidéo Alpha et souvenir de l’atelier. Les PDF français et anglais sont disponibles dans `/assets/behind-scenes/fr.pdf` et `/assets/behind-scenes/en.pdf`, avec le logo MTP en filigrane sur chaque page. Leur texte est également publié dans `docs/` sur GitHub.
 
 Source éditoriale commune : `behind-scenes-data.cjs`. Rendu HTML et Markdown : `behind-scenes-content.cjs`. Voir [la procédure de reproduction bilingue](../../docs/REPRODUIRE-LE-DOSSIER-IA.md). Les originaux métiers du jeu et de la BD ne sont pas modifiés. La capture privée du bêtisier n’est pas publiée.
+## Dossier technique et archives — 30 septembre 2026
+
+Sources éditoriales : `engineering-data.cjs`. Rendu commun : `engineering-render.cjs`; pages, bibliothèque et Markdown : `engineering-content.cjs`. Routes : `/ia/technique/`, `/en/ai/engineering/`, `/ia/archives/`, `/en/ai/archives/`.
+
+Reproduction locale (dépendances déjà installées) :
+
+```powershell
+node generate-engineering-pdfs.cjs
+npm run build
+node verify-engineering.cjs
+```
+
+Le générateur PDF utilise Playwright et Edge; `PLAYWRIGHT_MODULE` permet de préciser le module installé. Les PDF fournis sont conservés sous `static/assets/ia-archives/`, avec manifeste de provenance, empreintes et indications d’expurgation. Les originaux privés ne sont pas nécessaires au build. Les nouveaux PDF FR/EN et six captures sont sous `static/assets/engineering/`. Les instantanés JSON documentent des sources locales inspectées, sans publier de configuration secrète ni prétendre certifier la disponibilité des modèles.
