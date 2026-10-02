@@ -49,6 +49,7 @@ La protection en lecture seule de MATRIX, l’écriture uniquement dans les espa
 
 - Tests demandés (GitHub, Azure, audio, sélection « TOUS », statuts limites, sécurité Control Plane et régression Godot) : **non exécutés**, car les exécutables et données de test concernés ne sont pas dans cette copie.
 - Les scripts du portail ne valident pas ces fonctions MATRIX. Aucun test de portail n’a été lancé pour ce rapport documentaire.
+- `website/portal/package.json` déclare `npm test` comme `node test.cjs`, mais `website/portal/test.cjs` est absent. Les scripts `verify-*.cjs` présents vérifient des pages du portail, pas MATRIX ou Godot.
 - Appels de modèles, appels Azure, déploiements et transactions : **aucun**.
 - Coûts cloud déclenchés par cet audit : **0**.
 
