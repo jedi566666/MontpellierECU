@@ -52,6 +52,9 @@ require('./experiments-content.cjs')({fs,path,root,shell});
 require('./ia-content.cjs')({fs,path,root,shell});
 require('./behind-scenes-content.cjs')({fs,path,root,shell});
 require('./matrix-pro-content.cjs')({fs,path,root,shell});
+require('./model-ranking-content.cjs')({fs,path,root,shell});
 require('./engineering-content.cjs')({fs,path,root,shell});
 require('./design-content.cjs')({fs,path,root});
 require('./seo-finalize.cjs')({fs,path,root,base});
+
+
